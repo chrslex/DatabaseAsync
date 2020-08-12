@@ -41,9 +41,9 @@
                                     <th scope="col" class="isi-table"><a class="text-info" href="/sort/?order_by=nim_jurusan">NIM Jurusan</a></th>
                                     <th scope="col" class="isi-table"><a class="text-info" href="/sort/?order_by=nama">Nama</a></th>
                                     <th scope="col" class="isi-table"><a class="text-info" href="/sort/?order_by=panggilan">Panggilan</a></th>
-                                    <th scope="col" class="isi-table"><a class="text-info" href="/sort/?order_by=jenis_kelamin">Kelompok</a></th>
-                                    <th scope="col" class="isi-table"><a class="text-info" href="/sort/?order_by=jenis_kelamin">Jurusan</a></th>
-                                    <th scope="col" class="isi-table"><a class="text-info" href="/sort/?order_by=jenis_kelamin">Foto</a></th>
+                                    <th scope="col" class="isi-table"><a class="text-info" href="/sort/?order_by=kelompok">Kelompok</a></th>
+                                    <th scope="col" class="isi-table"><a class="text-info" href="/sort/?order_by=jurusan">Jurusan</a></th>
+                                    <th scope="col" class="isi-table"><a class="text-info" href="#">Foto</a></th>
                                 </tr>
                             </thead>
                                 
@@ -66,7 +66,7 @@
                                         {% else %}
                                             <td class="text-primary isi-table">Sistem Teknologi dan Informasi</td>
                                         {% endif %}
-                                        <td class="isi-table"><img src="../media/{{person.image}}"></td>
+                                        <td class="isi-table"><img class="foto" src="../media/{{person.image}}"></td>
                                 </tr>
                                 {% endfor %}
                                 
@@ -83,5 +83,13 @@
 <style>
 .isi-table {
     text-align: center;
+}
+
+.foto {
+    border-radius: 8px;
+    height: auto;
+    width: auto;
+    max-height: 128px;
+    max-width: 128px;
 }
 </style>

@@ -17,7 +17,22 @@ def search(request):
     found_entries = None
     if ('q' in request.GET) and request.GET['q'].strip():
         query = request.GET['q']
-        entry_query = get_query(query, ['nama', 'nim_tpb', 'nim_jurusan', 'panggilan', 'jenis_kelamin'])
+        filterarr = ['nama', 'panggilan', 'jenis_kelamin']
+        if (query.startswith('nim=') or query.startswith('n=')):
+            filterarr.append('nim_tpb')
+            filterarr.append('nim_jurusan')
+            query = query.replace('nim=', '')
+            query = query.replace('n=', '')
+        if (query.startswith('jurusan=') or query.startswith('j=')):
+            filterarr.append('jurusan')
+            query = query.replace('jurusan=', '')
+            query = query.replace('j=', '')
+        if (query.startswith('kelompok=') or query.startswith('k=') or query.startswith('kel=')):
+            filterarr.append('kelompok')
+            query = query.replace('kelompok=', '')
+            query = query.replace('k=', '')
+            query = query.replace('kel=', '')
+        entry_query = get_query(query, filterarr)
         found_entries = Person.objects.filter(entry_query)
     return render(request, 'people.html', {'people': found_entries})
 

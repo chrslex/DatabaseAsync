@@ -2,6 +2,7 @@ from django.db import models
 from django.core.validators import RegexValidator, MaxValueValidator, MinValueValidator
 
 SEXES = (('FEMALE', 'Female'), ('MALE', 'Male'))
+MAJOR = (('IF', 'Teknik Informatika'), ('STI', 'Sistem Teknologi Informasi'))
 
 class Person(models.Model):
 
@@ -11,6 +12,8 @@ class Person(models.Model):
     nim_jurusan = models.IntegerField(default=13519999)
     panggilan = models.CharField(validators=[text_regex], max_length=30)
     jenis_kelamin = models.CharField(max_length=6,choices=SEXES)
+    jurusan = models.CharField(max_length=2, choices=MAJOR)
+    image = models.ImageField(default = 'default.png', upload_to=userDirectory)
 
     def update(self):
         self.save()

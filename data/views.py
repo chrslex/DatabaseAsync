@@ -59,12 +59,12 @@ def person(request):
     if n == -1:
         urlnext = "#"
     else:
-        urlnext = "/detail/?kelompok=" + str(keln) + "&person=" + str(n)
+        urlnext = "/async/detail/?kelompok=" + str(keln) + "&person=" + str(n)
     
     if m == -1:
         urlprev = "#"
     else:
-        urlprev = "/detail/?kelompok=" + str(kelm) + "&person=" + str(m)
+        urlprev = "/async/detail/?kelompok=" + str(kelm) + "&person=" + str(m)
     maxkel = [1,2,3,4,5,6,7,8,9,10,11,12]
     return render(request, 'person.html', {'person': data[person-1], 'mr' : MEDIA_URL, 'urlnext': urlnext, 'urlprev': urlprev, 'isRandom' : False, 'maxkel' : maxkel})
 

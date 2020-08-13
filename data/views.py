@@ -85,6 +85,7 @@ def search(request):
         query = request.GET['q']
         filterarr = ['nama', 'panggilan', 'jenis_kelamin', 'warna_baju']
         orderby = 'nim_jurusan'
+        ph = query
         if (query.startswith('nim=') or query.startswith('n=')):
             filterarr = []
             filterarr.append('nim_tpb')
@@ -106,7 +107,7 @@ def search(request):
             query = query.replace('kel=', '')
         entry_query = get_query(query, filterarr)
         found_entries = Person.objects.order_by(orderby).filter(entry_query)
-    return render(request, 'people.html', {'people': found_entries, 'mr' : MEDIA_URL})
+    return render(request, 'people.html', {'people': found_entries, 'mr' : MEDIA_URL, 'ph' : ph})
 
 def normalize_query(query_string,
                     findterms=re.compile(r'"([^"]+)"|(\S+)').findall,

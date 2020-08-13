@@ -27,14 +27,27 @@
                             </span>
                         </div>
                     </div>
+                    <nav class="navbar navbar-expand-lg">
+                        <ul class="navbar-nav mr-auto">
+                            <li class="nav-item active">
+                                <a class="nav-link text-white mx-1 px-3 btn btn-outline-light" href="/">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-white mx-1 px-3 btn btn-outline-light" href="/random">Randomize</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-white mx-1 px-3 btn btn-outline-light" href="/detail/?kelompok=1&person=1">Detail</a>
+                            </li>
+                        </ul>
+                    </nav>
                 </div>
             </header>
                 <div class="container mt-5 border py-2 px-3 rounded">
                 
                 <!-- Content -->
-                        <div class="row">
+                        <div class="row p-3 pb-5">
                             <div class="col-sm-3">
-                                <img class="foto" src="{{mr}}{{person.image}}">
+                                <img class="foto centered" src="{{mr}}{{person.image}}">
                             </div>
                             <div class="col-sm-9 antic-slab ">
                                 <p class="h4 centered">{{person.nama}} (<span class="bolder">{{person.panggilan}}</span>)</p>
@@ -55,7 +68,7 @@
                                     {% endif %}
                                 </p>
                                 {% if person.warna_baju %}
-                                    {% if person.warna_baju != "-" %}
+                                    {% if person.warna_baju != "-" and isRandom == False %}
                                         <p class="h6">Warna Baju 
                                             <span class="bolder">{{person.warna_baju}}</span>
                                         </p>
@@ -64,6 +77,7 @@
                                 <br/>
                                 <hr>
                                 <div class="row">
+                                    {% if isRandom == False %}
                                     <div class="col-sm-4 mx-2">
                                     </div>
                                     <div class="col-sm-2">
@@ -72,7 +86,26 @@
                                     <div class="col-sm-2">
                                         <a class="btn {% if urlnext == '#' %}btn-outline-secondary disabled{% else %}btn-outline-primary{% endif %} px-4" href="{{ urlnext }}">Next</a>
                                     </div>
+                                    {% else %}
+                                    <div class="col-sm-4 mx-3">
+                                    </div>
+                                    <div class="col-sm-2 my-3">
+                                        <a class="btn {% if urlprev == '#' %}btn-outline-secondary disabled{% else %}btn-outline-warning{% endif %} px-4" href="/random">Randomize</a>
+                                    </div>
+                                    {% endif %}
                                 </div>
+                                {% if isRandom == False %}
+                                    <br/>
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <p class="h6 text-black-50 bolder centered ml-5 pl-1 py-1 my-1">Kelompok:</p></div>
+                                        <div class="col-sm-9">
+                                        {% for i in maxkel %}
+                                            <a class="btn btn-outline-warning px-2 mx-1" href="/detail/?kelompok={{i}}&person=1">{% if i < 10 %}0{{i}}{% else %}{{i}}{% endif %}</a>
+                                        {% endfor %}
+                                        </div>
+                                    </div>
+                                {% endif %}
                             </div>
                         </div>
                 </div>
@@ -83,7 +116,9 @@
                 <script src="https://cdn.datatables.net/1.10.21/js/dataTables.bootstrap4.min.js"></script>
         </body>
         <footer>
-            <hr>
+            <br/>
+            <hr class="mt-5">
+            <br/>
             <p class="h6 centered antic-slab">2020 Database Async, Tim Materi.</p>
             <br/>
         </footer>

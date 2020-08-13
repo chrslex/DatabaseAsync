@@ -3,6 +3,7 @@ from django.db.models import Q
 from .models import Person
 from project.settings import MEDIA_URL
 import re
+import random
 
 def convertPage(pstr):
     strpage = pstr.split('&page=')[1]
@@ -13,6 +14,12 @@ def convertPage(pstr):
     if page <= 0:
         return 1
     return page
+
+def person_random(request):
+    kelompok = random.randint(1,12)
+    data = Person.objects.filter(kelompok=kelompok)
+    person = random.randint(0,len(data)-1)
+    return render(request, 'person.html', {'person': data[person], 'mr' : MEDIA_URL, 'isRandom' : True})
 
 def person(request):
     kelompok = request.GET.get('kelompok', 1)
@@ -50,7 +57,8 @@ def person(request):
         urlprev = "#"
     else:
         urlprev = "/detail/?kelompok=" + str(kelm) + "&person=" + str(m)
-    return render(request, 'person.html', {'person': data[person-1], 'mr' : MEDIA_URL, 'urlnext': urlnext, 'urlprev': urlprev})
+    maxkel = [1,2,3,4,5,6,7,8,9,10,11,12]
+    return render(request, 'person.html', {'person': data[person-1], 'mr' : MEDIA_URL, 'urlnext': urlnext, 'urlprev': urlprev, 'isRandom' : False, 'maxkel' : maxkel})
 
 def person_list(request):
     people = Person.objects.order_by('nim_tpb')

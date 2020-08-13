@@ -33,10 +33,10 @@
                                 <a class="nav-link text-white mx-1 px-3 btn btn-outline-light" href="/">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-white mx-1 px-3 btn btn-outline-light" href="/random">Randomize</a>
+                                <a class="nav-link text-white mx-1 px-3 btn btn-outline-light {% if isRandom == True %}disabled{%endif%}" href="/random">Randomize</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-white mx-1 px-3 btn btn-outline-light" href="/detail/?kelompok=1&person=1">Detail</a>
+                                <a class="nav-link text-white mx-1 px-3 btn btn-outline-light {% if isRandom == False %}disabled {% endif %}" href="/detail/?kelompok=1&person=1">Detail</a>
                             </li>
                         </ul>
                     </nav>

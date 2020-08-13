@@ -1,334 +1,333 @@
-id,nama,nim_tpb,nim_jurusan,jenis_kelamin,jurusan,image,kelompok,warna_baju,panggilan
-0,Ega Stephanie,16519002,18219041,PEREMPUAN,STI,async/16519002_Ega Stephanie_STI.jpg,1,Hitam,Ega
-1,Giant Andreas Tambunan,16519003,13519127,LAKI-LAKI,IF,async/16519002_Giant Andreas Tambunan_IF.jpg,1,Hitam,Giant
-2,Joel Triwira,16519006,13519073,LAKI-LAKI,IF,async/16519006_Joel Triwira_IF.jpg,1,Hijau,Joel
-3,Prana Gusriana,16519008,13519195,LAKI-LAKI,IF,async/16519008_Prana Gusriana_IF.jpg,1,Hitam,Prana 
-4,Jesson Gosal Yo,16519013,13519079,LAKI-LAKI,IF,async/16519013_Jesson Yo_IF.jpg,1,Jamal,Jesson
-5,Nabelanita Utami,16519014,13519104,PEREMPUAN,IF,async/16519014_Nabelanita Utami_IF.jpg,1,Merah/Putih,Abel
-6,M Fadli Gunardi,16519017,13519130,LAKI-LAKI,IF,async/16519017_Muhammad Fadli_IF.jpg,1,Biru Muda,Fadli
-7,I Gede Govindabhakta,16519020,13519139,LAKI-LAKI,IF,async/16519020_I Gede Govindabhakta_IF.jpg,1,Putih,Govin
-8,Dwi Kalam Amal Tauhid,16519021,13519210,LAKI-LAKI,IF,async/13518021_Dwi Kalam_IF.PNG,1,Hitam,Dwi
-9,Gavriel Benny,16519032,18219078,LAKI-LAKI,STI,async/16519032_Gavriel Benny_STI.jpg,1,Hitam,Gavriel
-10,Rayhan Asadel,16519035,13519196,LAKI-LAKI,IF,async/16519035_Rayhan Asadel_IF.jpg,1,Hitam,Asadel
-11,Faisal Helmi Wicaksono,16519039,18219025,LAKI-LAKI,STI,async/16519039_Faisal Helmi_STI.jpg,1,Hitam,Faisal
-12,Afifah Fathimah Qur'ani,16519053,13519183,PEREMPUAN,IF,async/16519053_Afifah FQ_IF.jpg,1,Biru,Afifah
-13,Daniel Mario Reynaldi,16519055,13519031,LAKI-LAKI,IF,async/16519055_Daniel Mario_IF.jpg,1,Jakang,Daniel
-14,Giovani Anggasta,16519056,13519155,PEREMPUAN,IF,async/16519056_Gea_IF.jpg,1,Merah,Gea
-15,Ibnu Hafizh,16519060,13519177,LAKI-LAKI,IF,async/16519060_Jack_IF.jpg,1,Hitam,Jack/Jek
-16,Gayuh Tri Rahutami,16519062,13519192,PEREMPUAN,IF,async/16519062_Tami_IF.jpg,1,Biru Muda,Tami
-17,Leo Cardhio Sih Pratama,16519067,13519220,LAKI-LAKI,IF,async/16519067_Leo C_IF.jpg,1,Hitam,Leo
-18,Ryan Kurnia Hidayatullah,16519068,13519212,LAKI-LAKI,IF,async/16519068_Ryan Kurnia_IF.jpg,1,Merah,Yankur
-19,M Rifandy Zulvan,16519078,18219021,LAKI-LAKI,STI,async/16519078_Rifandy_STI.jpg,1,Hitam,Rifandy
-20,Sharon Bernadetha Marbun,16519091,13519092,PEREMPUAN,IF,async/16519091_Detha_IF.jpg,1,Putih,Detha
-21,Nizamixavier Rafif Lutvie,16519099,13519085,LAKI-LAKI,IF,async/16519099_Rafif_IF.jpg,1,Putih,Rafif
-22,Wilbert Fangderson,16519100,13519025,LAKI-LAKI,IF,async/16519100_Wilbert Fang_IF.jpg,1,Putih,Fang
-23,Fransiskus Febryan Suryawan,16519187,13519124,LAKI-LAKI,IF,async/16519187_Febryan_IF.jpg,1,Jamal,Suggoi
-24,Syihabuddin Yahya Muhammad,16519275,13519149,LAKI-LAKI,IF,async/16519275_Syihabuddin_IF.jpg,1,Jamal,Syihab
-25,Ferdian Airlangga,16519277,18219112,LAKI-LAKI,STI,async/16519112_Ferdian_STI.jpg,1,Biru,Ferdian
-26,Muhammad Tamiramin Hayat Suhendar,16519502,13519129,LAKI-LAKI,IF,async/16519502_Tamir_IF.jpg,1,Hitam,Tamir
-27,Muhammad Ilyas Irfan Syiraaj,16519517,18219085,LAKI-LAKI,STI,async/16519517_Ilyas_STI.jpg,1,Hitam/Hijau,Ilyas
-28,Gisela Ivenita Mokalu,16519024,18219073,PEREMPUAN,STI,async/16519024_Gisela Ivenita Mokalu_STI.png,2,Putih,Gisel
-29,Rafi Raihansyah Munandar,16519030,13519154,LAKI-LAKI,IF,async/16519030_Rafi Raihansyah Munandar_IF.png,2,Putih/Abu-abu,Rafi
-30,Nurul Izza A,16519042,18219011,PEREMPUAN,STI,async/16519042_Nurul Izza Afkharinah_STI.png,2,Hijau,Nurul
-31,Ari Pardomuan M,16519044,18219045,LAKI-LAKI,STI,async/16519044_Ari Pardomuan Manurung_STI.png,2,Hitam,Ari
-32,Ida Bagus Raditya Avanindra Mahaputra,16519045,18219117,LAKI-LAKI,STI,async/16519045_Ida Bagus Raditya Avanindra Mahaputra_STI.png,2,Hitam,Tugus
-33,Ahmad Fadhil Ramadhan,16519048,18219026,LAKI-LAKI,STI,async/16519048_Ahmad Fadhil Ramadhan_STI.png,2,Hitam,Fadhil
-34,Christopher Justine William,16519054,13519006,LAKI-LAKI,IF,async/16519054_Christopher Justine William_IF.png,2,Hitam/Biru,Justine
-35,Dwianditya Hanif Raharjanto,16519058,13519046,LAKI-LAKI,IF,async/16519058_Dwianditya Hanif Raharjanto_IF.png,2,Merah,Hanip
-36,Mochamad Kautsar Fadhilah,16519063,18219039,LAKI-LAKI,STI,async/16519063_Mochamad Kautsar Fadhilah_STI.png,2,Hitam,Kautsar
-37,Bryan Rinaldo,16519069,13519103,LAKI-LAKI,IF,async/16519069_Bryan Rinaldo_IF.png,2,Hitam,Bryan
-38,Muhammad faiq dhiya ul haq,16519075,18219013,LAKI-LAKI,STI,async/16519075_Muhammad Faiq Dhiya Ul Haq_STI.png,2,Putih,Faiq
-39,Fernaldi Fauzie,16519076,18219099,LAKI-LAKI,STI,async/16519076_Fernaldi Fauzie_STI.png,2,Jingga,Fernaldi
-40,Akifa Nabil Ufairah,16519081,13519179,PEREMPUAN,IF,async/16519081_Akifa Nabil Ufairah_IF.png,2,Putih,Akifa
-41,Ferdy Irawan Firdaus,16519082,13519030,LAKI-LAKI,IF,async/16519082_Ferdy Irawan Firdaus_IF.png,2,Putih,Ferdy
-42,Siti Iedrania Azzariyat Akbar,16519109,13519137,PEREMPUAN,IF,async/16519109_Siti Ledrania Azzariyat Akbar_IF.png,2,Hitam/Coklat,Nia
-43,Denilsen Axel Candiasa,16519116,13519059,LAKI-LAKI,IF,async/16519116_Denilsen Axel Candiasa_ IF.png,2,Hitam,Denil
-44,Rhea Elka Pandumpi,16519120,13519047,PEREMPUAN,IF,async/16519120_Rheha Elka Pandumpi_IF.png,2,Abu-abu,Rhea
-45,Reyhan Emyr Arrosyid,16519129,13519167,LAKI-LAKI,IF,async/16519129_Reyhan Emyr Arrosyid_IF.png,2,Putih,Emyr
-46,Rexy Gamaliel Rumahorbo,16519132,13519010,LAKI-LAKI,IF,async/16519132_Rexy Gamaliel Rumahorbo_IF.png,2,Hijau,Rexy
-47,Jonathan Christhoper Jahja,16519133,13519144,LAKI-LAKI,IF,async/16519133_Jonathan Christhoper Jahja_IF.png,2,Biru/Hijau/Hitam,Jojo
-48,Naufal Yahya Kurnianto,16519140,13519141,LAKI-LAKI,IF,async/16519140_Naufal Yahya Kurnianto_IF.png,2,Putih,Nopal
-49,Gian Denggan Bendjamin,16519143,18219061,LAKI-LAKI,STI,async/16519143_Gian Denggan Bendjamin_STI.png,2,Putih,Gian
-50,Mahameru Ds,16519177,13519014,LAKI-LAKI,IF,async/16519177_Mahameru Ds_IF.png,2,Hitam,Eru
-51,Relieyan Ramadhan Hilman,16519196,13519089,LAKI-LAKI,IF,async/16519196_Relieyan Ramadhan Hilman_STI.png,2,Hitam,Reliyan
-52,Daffa Ananda Pratama Resyaly,16519265,13519107,LAKI-LAKI,IF,async/16519265_Daffa Ananda Pratama Resyaly_IF.png,2,Biru,Daffa
-53,Shifa Salsabiila,16519427,13519106,PEREMPUAN,IF,async/16519427_Shifa Salsabiila_IF.png,2,Hitam,Shifa
-54,Rais Vaza Man Tazakka,16519464,13519060,LAKI-LAKI,IF,async/16519464_Rais Vaza Man Tazakka_IF.png,2,Jamal,Vaza
-55,Almeiza Arvin Muzaki,16519510,13519066,LAKI-LAKI,IF,async/16519510_Almeiza Arvin Muzaki_IF.png,2,Hitam,Arvin
-56,Leony Angela,16519046,18219032,PEREMPUAN,STI,async/16519046_Leony Angela_STI.png,3,Hitam,Leony
-57,Muhammad Jafar Gundari,16519070,13519197,LAKI-LAKI,IF,async/16519070_Muhammad Jafar Gundari_IF.png,3,Abu-abu,Jafar
-58,Fauzan Yubairi Indrayadi ,16519071,13519171,LAKI-LAKI,IF,async/16519071_Fauzan Yubairi Indrayadi_IF.png,3,Hitam,Fauzan/Ojan
-59,Zachrandika Alif Syahreza,16519080,18219036,LAKI-LAKI,STI,async/16519080_Zachrandika Alif Syahreza_STI.png,3,Coklat,Aladin
-60,Mohammad dwinta harits cahyana,16519088,13519041,LAKI-LAKI,IF,async/16519088_Mohammad Dwinta Harits Cahyana.png,3,Merah,Dwinta
-61,Jonathan Richard Sugandhi,16519089,13519128,LAKI-LAKI,IF,async/16519089_Jonathan Richard Sugandhi_IF.png,3,Biru,Richie
-62,Rahmah Khoirussyifa' Nurdini,16519090,13519013,PEREMPUAN,IF,async/16519090_Rahmah Khoirussyifa_ Nurdini_IF.png,3,Hitam,Rahma
-63,Rafidika Samekto,16519092,13519207,LAKI-LAKI,IF,async/16519092_Rafidika Samekto_IF.png,3,Hitam,Dika
-64,M. Abdi Haryadi. H,16519095,13519156,LAKI-LAKI,IF,async/16519095_M Abdi Haryadi H_IF.png,3,Merah,Abdi
-65,Jeane Mikha Erwansyah,16519096,13519116,PEREMPUAN,IF,async/16519096_Jeane Mikha Erwansyah_IF.png,3,Hitam,Jeane
-66,16519098_Dzaki Muhammad_IF.png,16519098,13519049,LAKI-LAKI,IF,async/16519098_Dzaki Muhammad_IF.png,3,Hitam,Dzaki
-67,Fadli Naufal Rahman,16519105,18219043,LAKI-LAKI,STI,async/16519105_Fadli Naufal Rahman_STI.png,3,Coklat,Fadli
-68,Allief Nuriman,16519117,13519221,LAKI-LAKI,IF,async/16519117_Allief Nuriman_IF.png,3,Merah,Allief
-69,Paul Marturia Sihombing,16519121,18219044,LAKI-LAKI,STI,async/16519121_Paul Marturia Sihombing_STI.png,3,Hitam,Paul
-70,Dirasiella Damasari Hamdani,16519128,18219072,PEREMPUAN,STI,async/16519128_Dirasiella Damasari Hamdani_STI.png,3,Hitam,Dira
-71,Stefanus Jeremy Aslan,16519146,13519175,LAKI-LAKI,IF,async/16519146_Stefanus Jeremy Aslan_IF.png,3,Putih,Aslan/Stefanus
-72,Nathaniel Jason,16519156,13519108,LAKI-LAKI,IF,async/16519156_Nathaniel Jason_IF.png,3,Putih,Niel
-73,muhammad vito ibrahim,16519157,18219069,LAKI-LAKI,STI,async/16519157_Muhammad Vito Ibrahim_STI.png,3,Abu-abu,Vito
-74,David Owen Adiwiguna,16519160,13519169,LAKI-LAKI,IF,async/16519160_David Owen Adiwiguna_IF.png,3,Hijau,DO/David
-75,Faris Hasim Syauqi,16519161,13519050,LAKI-LAKI,IF,async/16519161_Faris Hasim Syauqi_IF.png,3,Putih,Faris
-76,Regina Dionne Aurelia H,16519162,18219030,PEREMPUAN,STI,async/16519162_Regina Dionne Aurelia Hadiprodjo_STI.png,3,Hitam,Dion
-77,Josep Marcello,16519170,13519164,LAKI-LAKI,IF,async/16519170_Josep Marcello_IF.png,3,Hitam,Sep
-78,Wilson Tandya,16519228,13519209,LAKI-LAKI,IF,async/16519228_Wilson Tandya_IF.png,3,Kuning,Wilson
-79,Galuh Dipa Bharata,16519252,18219100,LAKI-LAKI,STI,async/16519252_Galuh Dipa Bharata_STI.png,3,Putih,Galuh
-80,Nicholas Chen,16519343,13519029,LAKI-LAKI,IF,async/16519343_Nicholas Chen_IF.png,3,Ungu,Nicho
-81,Kumaras Gideon Sitorus,16519440,18219074,LAKI-LAKI,STI,async/16519440_Kumaras Gideon Sitorus_STI.png,3,Hitam,Aras
-82,Muhammad Iqbal Alam Firmansyah,16519511,18219116,LAKI-LAKI,STI,async/16519511_Muhammad Iqbal Alam Firmansyah_STI.png,3,Hitam,Iqbal
-83,M Hilal Alhamdy,16519522,13519024,LAKI-LAKI,IF,async/16519522_M Hilal Alhamdy_IF.png,3,Putih,Hilal
-84,Feralezer L. G. Tampubolon,16519059,13519062,LAKI-LAKI,IF,async/16519059_Feralezer Leonard Gorga Tampubolon_IF.jpg,4,Jakang,Feral
-85,Mochammad Fatchur Rochman,16519083,13519009,LAKI-LAKI,IF,async/16519083_Mochammad Fatchur Rochman_IF.jpg,4,Biru,Fatchur
-86,M. Fahrel Naufal A.,16519101,18219067,LAKI-LAKI,STI,async/16519101_Muhammad Fahrel Naufal Aldiansyah_STI.jpg,4,Putih,Fahrel
-87,Nabilah Erfariani,16519108,13519181,PEREMPUAN,IF,async/16519108_Nabilah Erfariani_IF.jpg,4,Hitam,Nabilah
-88,Gregorius Dimas Baskara,16519111,13519190,LAKI-LAKI,IF,async/16519111_Gregorius Dimas Baskara_IF.jpg,4,Hitam,Dimas
-89,Shafira Naya Aprisadianti,16519112,13519040,PEREMPUAN,IF,async/16519112_Shafira Naya Aprisadianti_IF.jpg,4,Coklat,Shafira
-90,Leonardus Brandon Luwianto,16519113,13519102,LAKI-LAKI,IF,async/16519113_Leonardus Brandon Luwianto_IF.jpg,4,Pink,Brandon
-91,Raihan Fadhilah Ahmad,16519119,18219111,LAKI-LAKI,STI,async/16519119_Raihan Fadhilah Ahmad_STI.jpg,4,Jakang,Raihan
-92,Dionisius Darryl Hermansyah,16519126,13519058,LAKI-LAKI,IF,async/16519126_Dionisius Darryl Hermansyah_IF.jpg,4,Hitam,Dion
-93,Wisnu Aditya Samiadji,16519135,13519093,LAKI-LAKI,IF,async/16519135_Wisnu Aditya Samiadji_IF.jpg,4,Kuning,Wisnu
-94,Jeremia Axel Bachtera,16519136,13519188,LAKI-LAKI,IF,async/16519136_Jeremia Axel Bachtera_IF.jpg,4,Jakang,Axel
-95,Raffi Zulvian Muzhaffar,16519138,13519003,LAKI-LAKI,IF,async/16519138_Raffi Zulvian Muzhaffar_IF.jpg,4,Biru,Rajul/Raffi
-96,Ramadhana Bhanuharya Wishnumurti,16519142,13519203,LAKI-LAKI,IF,async/16519142_Ramadhana Bhanuharya Wishnumurti_IF.jpg,4,Hitam,Wishnu
-97,Anindha Catur Arifani,16519144,18219084,PEREMPUAN,STI,async/16519144_Anindha Catur Arifani_STI.jpg,4,Hitam,Nindha
-98,Jacelyn Felisha,16519145,18219097,PEREMPUAN,STI,async/16519145_Jacelyn Felisha_STI.jpg,4,Biru,Jacelyn
-99,Gilbert Christian,16519147,18219005,LAKI-LAKI,STI,async/16519147_Gilbert Christian Sinaga_STI.jpg,4,Hitam,Gibet
-100,Ryandito Diandaru,16519150,13519157,LAKI-LAKI,IF,async/16519150_Ryandito Diandaru_IF.jpg,4,Putih,Dito
-101,Jason Stanley Yoman,16519165,13519019,LAKI-LAKI,IF,async/16519165_Jason Stanley Yoman_IF.jpg,4,Kuning,Jason
-102,Alexander,16519167,13519090,LAKI-LAKI,IF,async/16519167_Alexander_IF.jpg,4,Jamal,Alex
-103,Syifa Nurul Afriani,16519172,18219057,PEREMPUAN,STI,async/16519172_Syifa Nurul Afriani_STI.jpg,4,Ungu,Syifa
-104,Pandu Puncak Prawira,16519173,18219047,LAKI-LAKI,STI,async/16519173_Pandu Puncak Prawira_STI.jpg,4,Hitam,Pandu
-105,Muhammad Fawwaz Naabigh,16519184,13519206,LAKI-LAKI,IF,async/16519184_Muhammad Fawwaz Naabigh_IF.jpg,4,Hijau,Fawwaz
-106,Nabila Hannania,16519186,13519097,PEREMPUAN,IF,async/16519186_Nabila Hannania_IF.jpg,4,Biru Muda,Hanny
-107,Michael Ryan Martin,16519191,18219046,LAKI-LAKI,STI,async/16519191_Michael Ryan Martin_STI.jpg,4,Hitam,Michael
-108,Muhammad Akram Al Bari,16519407,13519142,LAKI-LAKI,IF,async/16519407_Muhammad Akram Al Bari_IF.jpg,4,Jakang,Akram
-109,Juan Louis Rombetasik,16519485,13519075,LAKI-LAKI,IF,async/16519485_Juan Louis Rombetasik_IF.jpg,4,Merah,Juan
-110,Ariya Adinatha,16519524,13519048,LAKI-LAKI,IF,async/16519524_Ariya Adinatha_IF.jpg,4,Abu-abu,Ariya
-111,Muhammad Fahkry Malta,16519532,13519032,LAKI-LAKI,IF,async/16519532_Muhammad Fahkry Malta_IF.jpg,4,Abu-abu,Fahri
-112,Anastasia Beatrice Caroline,16519040,18219081,PEREMPUAN,STI,async/16519040_Anastasia Beatrice Caroline_STI.png,5,Merah/Hitam,Olin
-113,Muhammad Bintang Pananjung,16519159,13519004,LAKI-LAKI,IF,async/16519159_Muhammad Bintang Pananjung_IF.png,5,Coklat,Bintang
-114,Arjuna Marcelino,16519163,13519021,LAKI-LAKI,IF,async/16519163_Arjuna M_IF.png,5,Biru muda,Arjuna
-115,Tarbiyatun Nafiah,16519169,18219023,PEREMPUAN,STI,async/16519169_Tarbiyatun Nafiah_STI.png,5,Biru,Nafi
-116,Mgs. Tabrani,16519171,13519122,LAKI-LAKI,IF,async/16519171_Mgs Tabrani_IF.png,5,Merah,Tabrani
-117,Shaffira Alya Mevia,16519174,13519083,PEREMPUAN,IF,async/16519174_Shaffira Alya Mevia_IF.png,5,Merah,Alya
-118,Alif Bhadrika Parikesit,16519175,13519186,LAKI-LAKI,IF,async/16519175_Alif Bhadrika Parikesit_IF.png,5,Putih,Alif
-119,Ruhiyah Faradishi Widiaputri,16519181,13519034,PEREMPUAN,IF,async/16519181_Ruhiyah Faradishi Widiaputri_IF.png,5,Biru,Fara
-120,Muhammad Rizal Muhaimin,16519182,13519136,LAKI-LAKI,IF,async/16519182_Muhammad Rizal Muhaimin_IF.png,5,Hijau,Rizal
-121,Azka Redhia D M,16519183,18219007,LAKI-LAKI,STI,async/default.png,5,-,Azka
-122,Nabil Nabighah,16519188,13519168,LAKI-LAKI,IF,async/16519188_Nabil Nabighah_IF.png,5,Putih,Nabil
-123,Andres Jerriel Sinabutar,16519190,13519218,LAKI-LAKI,IF,async/16519190_Andres Jerriel Sinabutar_IF.jpg,5,Putih,Andres
-124,Justin Dermawan Ikhsan,16519192,18219095,LAKI-LAKI,STI,async/16519192_Justin Dermawan Ikhsan_STI.png,5,Hitam,JJ
-125,Patricia Aurelia Tekad Tuerah,16519194,18219056,PEREMPUAN,STI,async/16519194_Patricia Aurelia Tekad Tuerah_STI.png,5,Ungu/Putih,Aurel
-126,Alexander ludwig Agu,16519195,18219033,LAKI-LAKI,STI,async/16519195_Alexander Ludwig_STI.png,5,Hitam,Ludwig
-127,Renaldi Arlin,16519199,13519114,LAKI-LAKI,IF,async/16519199_Renaldi Arlin_IF.png,5,Biru,Arlin/Aldi
-128,Bonaventura Bagas Sukarno,16519200,18219017,LAKI-LAKI,STI,async/16519200_Bonaventura Bagas Sukarno_STI.png,5,Hitam,Bona
-129,Fabian Savero Diaz Pranoto,16519201,13519140,LAKI-LAKI,IF,async/16519201_Fabian Savero Diaz Pranoto_IF.jpg,5,Hitam,Fabian
-130,Mohammad Sheva Almeyda Sofjan,16519217,13519018,LAKI-LAKI,IF,async/16519217_Mohammad Sheva Almeyda Sofjan_IF.png,5,Abu-abu,Sheva
-131,Muhammad Rabbani Brata,16519224,18219118,LAKI-LAKI,STI,async/16519224_Muhammad Rabbani Brata_STI.png,5,Hijau,Bani
-132,Faris Aziz,16519231,13519065,LAKI-LAKI,IF,async/16519231_Faris Aziz_IF .png,5,Jakang,Faziz
-133,Muchammad Fathurrahman Azhar,16519234,18219054,LAKI-LAKI,STI,async/16519234_Muchammad Fathurrahman Azhar_STI.png,5,Jamal,Fathur
-134,Leonardus James Wang,16519241,13519189,LAKI-LAKI,IF,async/16519241_Leonardus James Wang_IF.png,5,Putih,James
-135,Aurelius Marcel Candra,16519243,13519198,LAKI-LAKI,IF,async/16519243_Marcel_IF.jpg,5,Hitam/Putih,Marcel
-136,Naufal Alexander Suryasumirat,16519247,13519135,LAKI-LAKI,IF,async/16519247_Naufal Alexander Suryasumirat_IF .png,5,Hitam,Noler
-137,Harith Fakhiri Setiawan,16519269,13519161,LAKI-LAKI,IF,async/16519269_Harith Fakhiri Setiawan_IF .png,5,Abu-abu,Harith
-138,Hanif Arroisi Mukhlis,16519507,13519072,LAKI-LAKI,IF,async/default.png,5,-,Hanif
-139,Ghifari Farras Azhar,16519528,18219065,LAKI-LAKI,STI,async/16519528_Ghifari Farras Azhar_STI .png,5,Hitam,Ghifari
-140,Girvin Junod,16519010,13519096,LAKI-LAKI,IF,async/16519010_Girvin Junod_IF.jpg,6,Putih,Girvin
-141,Indira Damayanti,16519034,18219051,PEREMPUAN,STI,async/16519034_Aisyah Farras Aqila_IF.png,6,Putih,Indira
-142,Aisyah Farras Aqila,16519104,13519054,PEREMPUAN,IF,async/16519034_Indira Damayanti_STI.jpg,6,Hitam,Aqila
-143,Aulia Adila,16519152,13519100,PEREMPUAN,IF,async/16519162_Aulia Adila_IF.jpg,6,Putih,Adila
-144,Fadel Ananda Dotty,16519178,13519146,LAKI-LAKI,IF,async/16519178_Fadel Ananda Dotty_IF.jpg,6,Hitam,Fadel
-145,Warren Gabriel Mulyawan,16519203,18219096,LAKI-LAKI,STI,async/16519203_Warren Gabriel Mulyawan_STI.jpg,6,Abu-abu,Warren
-146,Fakhri Nail Wibowo,16519204,13519035,LAKI-LAKI,IF,async/16519204_Fakhri Nail Wibowo_IF.jpg,6,Hitam,Kiki
-147,Ilham Alvindo Riandova,16519208,18219063,LAKI-LAKI,STI,async/16519208_Ilham Alvindo Riandova_STI.jpg,6,Hitam,Ilham
-148,Muhammad Dehan Al Kautsar,16519213,13519200,LAKI-LAKI,IF,async/16519213_Muhammad Dehan Al-Kautsar_IF.png,6,Hitam,Dehan
-149,Ronggur Mahendra Widya Putra,16519214,13519008,LAKI-LAKI,IF,async/16519214_Ronggur_IF.png,6,Coklat,Ronggur
-150,Chintya Wijaya,16519215,18219082,PEREMPUAN,STI,async/16519215_Chintya Wijaya_STI.png,6,Pink,CW
-151,Habibina Arif Muzayyan,16519216,13519125,LAKI-LAKI,IF,async/16519216_Habibina Arif_IF.png,6,Abu-abu,Arif
-152,Fathiyya Maghfirah Teddy,16519220,18219106,PEREMPUAN,STI,async/16519220_Fathiyya_STI.png,6,Hitam/Putih,Fathiyya
-153,Andrew,16519221,13519036,LAKI-LAKI,IF,async/16519221_Andrew_IF.png,6,Hitam/Abu-abu,Drew
-154,Raihan Astrada Fathurrahman,16519225,13519113,LAKI-LAKI,IF,async/16519225_Raihan Astrada_IF.png,6,Biru,Raihan/Strada
-155,Handy Zulkarnain,16519232,18219060,LAKI-LAKI,STI,async/16519232_Handy_STI.png,6,Hitam,Handy
-156,Isabella Handayani Sumantri,16519251,13519081,PEREMPUAN,IF,async/16519251_Isabella_IF.png,6,Biru,Bella
-157,Nathaniel Angelius Tjahyadi,16519256,18219070,LAKI-LAKI,STI,async/16519256_Nathan_STI.png,6,Jamal,Nathan
-158,Ahmad Saladin,16519263,13519187,LAKI-LAKI,IF,async/16519263_Ahmad Saladin_IF.png,6,Hitam/Putih,Adin
-159,Michael Owen,16519268,13519055,LAKI-LAKI,IF,async/16519268_Michael Owen_IF.png,6,Kuning,Owen
-160,Parnaek R. Siagian,16519271,18219114,LAKI-LAKI,STI,async/16519271_Parnaek_STI.png,6,Coklat,Naek
-161,Muhammad Rifat Abiwardani,16519273,13519205,LAKI-LAKI,IF,async/16519273_Abiwardani_IF.png,6,Biru,Abi
-162,Helkia Yeremia,16519283,13519056,LAKI-LAKI,IF,async/16519283_Helkia_IF.png,6,Abu-abu,Helkia
-163,Moses Ananta,16519287,13519076,LAKI-LAKI,IF,async/16519287_Moses_IF.png,6,Biru,Moses
-164,Muhammad Farhan,16519288,18219015,LAKI-LAKI,STI,async/16519288_Farhan_STI.png,6,Putih,Farhan
-165,Wildan Daffa Hafizh,16519289,18219115,LAKI-LAKI,STI,async/16519289_Wildan_STI.png,6,Biru,Wildan
-166,Kresna Faza R,16519296,13519095,LAKI-LAKI,IF,async/16519296_Kresna Faza_IF.jpg,6,Hitam/Abu-abu,Kresna
-167,hafid abi daniswara,16519371,13519028,LAKI-LAKI,IF,async/16519371_Hafid Abi_IF.png,6,Abu-abu,Abi
-168,Made Kharisma Jagaddhita,16519011,13519176,LAKI-LAKI,IF,async/16519011_Made Kharisma Jagaddhita_IF.jpg,7,Hitam/Hijau,Kharisma
-169,Natasya Jatiwicha Azzahra,16519073,18219065,PEREMPUAN,STI,async/16519073_Natasya Jatiwicha Azzahra_STI.jpg,7,Putih,Tata
-170,Dimas Farhan Anshari,16519237,18219001,LAKI-LAKI,STI,async/16519237_Dimas Farhan Anshari_STI.jpg,7,Merah,Dims
-171,Farhan Yusuf Akbar,16519238,13519202,LAKI-LAKI,IF,async/16519238_Farhan Yusuf Akbar_IF.jpg,7,Hitam,Farhan
-172,Daru Bagus Dananjaya,16519240,13519080,LAKI-LAKI,IF,async/16519240_Daru Bagus Dananjaya_IF.jpg,7,Merah,Danan
-173,Rhapsodya Piedro Asmorobangun,16519250,13519084,LAKI-LAKI,IF,async/16519250_Rhapsodya Piedro Asmorobangun_IF.jpg,7,Hitam,Piedro
-174,Rezda Abdullah Fachrezzi,16519254,13519194,LAKI-LAKI,IF,async/16519254_Rezda Abdullah Fachrezzi_IF.jpg,7,Coklat,Rezda
-175,Mohammad Afif Akromi,16519257,13519110,LAKI-LAKI,IF,async/16519257_Mohammad Afif Akromi_IF.jpg,7,Hitam/Jingga,Afif
-176,Nabila Farah Debi,16519258,18219093,PEREMPUAN,STI,async/16519258_Nabila Farah Debi_STI.jpg,7,Hitam,Bila
-177,Farrell Abieza Zidan,16519259,13519182,LAKI-LAKI,IF,async/16519259_Farrell Abieza Zidan_IF.jpg,7,Putih,Farrell
-178,Dimas Meisab Raditya,16519260,18219092,LAKI-LAKI,STI,async/16519260_Dimas Meisab Raditya_STI.jpg,7,Hitam,Dimsab
-179,Muhammad Azhar Faturahman,16519261,13519020,LAKI-LAKI,IF,async/16519261_Muhammad Azhar Faturahman_IF.jpg,7,Jakang,Azhar
-180,Epata Tuah,16519262,13519120,LAKI-LAKI,IF,async/16519262_Epata Tuah_IF.jpg,7,Putih,Pata
-181,Afif Fahreza,16519291,18219058,LAKI-LAKI,STI,async/16519291_Afif Fahreza_STI.jpg,7,Biru,Afif
-182,Alifah Rahmatika Basyasya,16519293,13519053,PEREMPUAN,IF,async/16519293_Alifah Rahmatika Basyasya_IF.jpg,7,Hitam/Abu-abu,Caca
-183,Jordan Daniel Joshua ,16519295,13519098,LAKI-LAKI,IF,async/16519295_Jordan Daniel Joshua_IF.jpg,7,Hitam,Jordan
-184,Muhammad Hanif A. Nasution,16519298,18219077,LAKI-LAKI,STI,async/16519298_Muhammad Hanif Afisena Nasution_STI.jpg,7,Abu-abu,Hanif
-185,Muhammad Fahmi Alamsyah,16519300,13519077,LAKI-LAKI,IF,async/16519300_Muhammad Fahmi Alamsyah_IF.jpg,7,Hijau,Alam
-186,Viena Marshalinda Gusnissa,16519302,18219103,PEREMPUAN,STI,async/16519302_Viena Marshalinda Gusnissa_302.jpg,7,Jingga/Coklat/Putih,"Viena, Margus"
-187,Christopher Chandrasaputra,16519305,13519074,LAKI-LAKI,IF,async/16519305_Christopher Chandrasaputra_IF.jpg,7,Hitam/Abu-abu,Topher/Chandra
-188,Widya Anugrah Putra,16519307,13519105,LAKI-LAKI,IF,async/16519307_Widya Anugrah Putra_IF.jpg,7,Abu-abu,Wiwid
-189,Farras Isfahan Akbar,16519309,18219020,LAKI-LAKI,STI,async/16519309_Farras Isfahan Akbar_STI.jpg,7,Kuning/Hijau,Farras
-190,I Wayan Ananta Wijaya Muji Suandira,16519311,18219038,LAKI-LAKI,STI,async/16519311_I Wayan Ananta Wijaya Muji Suandira_STI.jpg,7,Biru/Coklat,Ananta
-191,Rolland Steven Supardi,16519317,13519173,LAKI-LAKI,IF,async/16519317_Rolland Steven Supardi_IF.jpg,7,Hitam/Abu-abu,Rolland
-192,Baskoro Adi Wicaksono,16519319,18219113,LAKI-LAKI,STI,async/16519319_Baskoro Adi Wicaksono_STI.jpg,7,Biru,Baskoro
-193,Fathan Ananta Nur,16519332,18219008,LAKI-LAKI,STI,async/16519332_Fathan Ananta Nur_STI.jpg,7,Biru,Fathan
-194,Muhammad Ichsandro D Noor,16519402,18219094,LAKI-LAKI,STI,async/16519402_Muhammad Ichsandro Daniswara Noor_STI.jpg,7,Putih,Andro
-195,Haning Nanda Hapsari,16519004,13519042,PEREMPUAN,IF,async/16519004_Haning Nanda_IF.jpg,8,Kuning,Haning
-196,Mizzi Muhammad Naufal Alfathan,16519019,18219002,LAKI-LAKI,STI,async/16519019_Mizzi_STI.jpg,8,Biru,Mizzi
-197,Zahra Salsabila,16519037,18219042,PEREMPUAN,STI,async/16519037_Sarah_STI.jpg,8,Hitam,Sarah
-198,Muhammad Raflie Dwi Putra,16519127,18219035,LAKI-LAKI,STI,async/16519127_Raflie_STI.jpg,8,Jakang,Raflie
-199,Elisabeth Gunawan,16519149,18219031,PEREMPUAN,STI,async/16519149_Elisabeth.G_IF.jpg,8,Biru,Eli
-200,Yahya Aqrom,16519276,18219076,LAKI-LAKI,STI,async/16519276_Yahya Aqrom_IF.jpg,8,Jakang,Aqrom
-201,Alvin Rizqi Alfisyahrin,16519280,13519126,LAKI-LAKI,IF,async/16519280_Alvin_IF.jpg,8,Hijau,Alvin
-202,Pratama Andiko,16519285,13519112,LAKI-LAKI,IF,async/16519285_Andiko_IF.jpg,8,Hitam,Diko
-203,M. Reyhanullah Budiaman,16519306,13519045,LAKI-LAKI,IF,async/16519306_Reyhanullah_IF.jpg,8,Hitam,Reyhan
-204,Muhammad Reza Nur Fauzi,16519308,18219064,LAKI-LAKI,STI,async/16519308_M. Reza N.F._STI.jpg,8,Biru,Reza
-205,Benidictus Galih Mahar Putra,16519318,13519159,LAKI-LAKI,IF,async/16519318_Benedictus G.M.P_IF.jpg,8,Hitam,Dito
-206,Reinaldo Antolis,16519320,13519015,LAKI-LAKI,IF,async/16519320_Reinaldo Antolis_IF.jpg,8,Hitam,Reinaldo
-207,Jason Wie Jonathan,16519322,18219003,LAKI-LAKI,STI,async/16519322_Jason Wie_STI.jpg,8,Merah,Jason
-208,Muhammad Furqon,16519323,13519184,LAKI-LAKI,IF,async/16519323_Muhammad Furqon.jpg,8,Abu-abu,Furqon
-209,Safiq Faray,16519329,13519145,LAKI-LAKI,IF,async/16519329_Safiq Faray_IF.jpg,8,Putih,Safiq
-210,Muhammad Dzaki Razaan Faza,16519342,13519033,LAKI-LAKI,IF,async/16519342_M.D.R.Faza_IF.jpg,8,Merah,Faza
-211,Muhamad Agung Ahsary,16519345,18219098,LAKI-LAKI,STI,async/16519345_Agung Ahsary_STI.jpg,8,Hitam,Agung
-212,Aditya Bimawan,16519346,13519064,LAKI-LAKI,IF,async/16519346_Aditya Bimawan_IF.jpg,8,Hitam,Adit
-213,Muhammad Iqbal Sigid,16519349,13519152,LAKI-LAKI,IF,async/16519349_Iqbal Sigid_IF.jpg,8,Biru muda,Iqbal
-214,David Moelia Sapoetra,16519352,18219012,LAKI-LAKI,STI,async/16519352_David Moelia_STI.png,8,Biru muda,David
-215,Muhammad Rifky Muthahhari,16519354,13519123,LAKI-LAKI,IF,async/16519354_Rifky M_IF.jpg,8,Merah,Ikey
-216,Nadilla Putri Pratiwi,16519361,18219108,PEREMPUAN,STI,async/16519361_Nadila_STI.jpg,8,Putih,Nadilla
-217,Muhammad Husnul Daffa,16519401,18219010,LAKI-LAKI,STI,async/16519401_Chusnul Daffa_STI.jpg,8,Merah,Chus
-218,Cindy Amandani Noviantika,16519410,18219110,PEREMPUAN,STI,async/16519410_Cindy_STI.jpg,8,Coklat,Cindy
-219,M. Rafli Zamzami,16519413,13519067,LAKI-LAKI,IF,async/16519413_Rafli Zamzami_IF.jpg,8,Jakang,Kipli
-220,Clarisa Natalia Edelin ,16519420,13519213,PEREMPUAN,IF,async/16519420_Clarissa Natalia_IF.jpg,8,Putih,Lia
-221,Ilyasa Salafi Putra Jamal,16519457,13519023,LAKI-LAKI,IF,async/16519457_Ilyasa Salafi_IF.jpg,8,Hitam/Biru (?),Ilyas
-222,Muhammad Asyrofi Al Hakim,16519494,18219049,LAKI-LAKI,STI,async/16519494_Asyrofi Al Hakim_STI.png,8,Hitam,Hakim
-223,Delisha Azza Naadira,16519022,13519133,PEREMPUAN,IF,async/16519022_Delisha Azza Naadira_IF.png,9,Abu-abu,Delisha
-224,Farhan Nur Hidayat Denira,16519049,13519071,LAKI-LAKI,IF,async/16519049_Farhan Nur Hidayat Denira_IF.png,9,Hitam,Ahan
-225,Karina Imani,16519114,13519166,PEREMPUAN,IF,async/16519114_Karina Imani_IF.png,9,Hitam,Karina
-226,Kevin Ryan,16519294,13519191,LAKI-LAKI,IF,async/16519294_Kevin Ryan_IF.png,9,Putih,KR
-227,Gina Septiyani Putri,16519301,18219053,PEREMPUAN,STI,async/16519301_Gina Septiyani Putri_STI.png,9,Coklat,Gina
-228,Azka Alya Ramadhan,16519331,18219101,PEREMPUAN,STI,async/16519331_Azka Alya Ramadhan_STI.png,9,Kuning,Azka
-229,Muhammad Rayhan Ravianda ,16519335,13519201,LAKI-LAKI,IF,async/16519335_Muhammad Rayhan Ravianda_IF.png,9,Hitam,Cubing
-230,Abraham Manuel Hotasi Banjarnahor,16519337,18219083,LAKI-LAKI,STI,async/16519337_Abraham Manuel Hotasi_STI.png,9,Hitam,Hot
-231,Samuel Aristides,16519338,18219080,LAKI-LAKI,STI,async/16519338_Samuel Aristides_STI.png,9,Hitam,Samsul
-232,Aindrea Rayhan Supriyanto,16519360,18219034,LAKI-LAKI,STI,async/16519360_Aindrea Rayhan Supriyanto_STI.png,9,Putih,Dean
-233,La Ode Rajuh Emoko,16519372,13519170,LAKI-LAKI,IF,async/16519372_La Ode Rajuh Emoko_IF.png,9,Putih,Rajuh
-234,Edwin Stanic Prasetyo,16519374,18219079,LAKI-LAKI,STI,async/16519374_Edwin Stanic Prasetyo_STI.png,9,Hitam,Edwin
-235,Muhammad Erwin Fattah,16519375,18219019,LAKI-LAKI,STI,async/16519375_Muhammad Erwin Fattah_STI.png,9,Ungu,Erwin
-236,Rahmat Wibowo,16519377,18219040,LAKI-LAKI,STI,async/16519377_Rahmat Wibowo_STI.png,9,Merah,Rahmat
-237,Rehagana Kevin Christian Sembiring ,16519380,13519117,LAKI-LAKI,IF,async/16519380_Rehagana Kevin Christian Sembiring_IF.png,9,Hitam/Putih/Merah,Haga
-238,Rayhan Alghifari Fauzta,16519384,13519039,LAKI-LAKI,IF,async/16519384_Rayhan Alghifari Fauzta_IF.png,9,Abu-abu,Alghi
-239,Marcelino Feihan,16519385,18219006,LAKI-LAKI,STI,async/16519385_Marcelino Feihan_STI.png,9,HItam,Feihan
-240,Fauzan Rafif Widyanto,16519388,18219104,LAKI-LAKI,STI,async/16519388_Fauzan Rafif Widyanto_STI.png,9,Hijau/Coklat/Putih,Fauzan
-241,Jeanne D'Arc Amara Hanieka,16519390,13519082,PEREMPUAN,IF,async/16519390_Jeanne D_Arc Amara Hanieka_IF.png,9,Hitam,Amara
-242,Muhammad Tito Prakasa,16519391,13519007,LAKI-LAKI,IF,async/16519391_Muhammad Tito Prakasa_IF.png,9,Biru,Tito
-243,Patricia Dita Natasha,16519392,18219018,PEREMPUAN,STI,async/16519392_Patricia Dita Natasha_STI.png,9,HItam,Dita
-244,Kinantan Arya Bagaspati,16519393,13519044,LAKI-LAKI,IF,async/16519393_Kinantan Arya Bagaspati_IF.png,9,Abu-abu,Kinon
-245,Andrianata Putra Tjandra,16519398,13519147,LAKI-LAKI,IF,async/16519398_Andrianata Putra Tjandra_IF.png,9,biru,Rian
-246,Farhan Fadillah Rafi,16519399,13519204,LAKI-LAKI,IF,async/16519399_Farhan Fadillah Rafi_IF.png,9,Hitam,Farhan
-247,Muhammad Fikri Naufal,16519404,13519158,LAKI-LAKI,IF,async/16519404_Muhammad Fikri Naufal_IF.png,9,HItam,Fikri
-248,Hokki Suwanda,16519408,13519143,LAKI-LAKI,IF,async/16519408_Hokki Suwanda_IF.png,9,Kuning,Hokki
-249,Hughie Alghaniyyu Emiliano,16519409,13519217,LAKI-LAKI,IF,async/16519409_Hughie Alghaniyyu Emiliano_IF.png,9,HItam,Hughie
-250,Kadek Surya Mahardika,16519444,13519165,LAKI-LAKI,IF,async/16519444_Kadek Surya Mahardika_IF.png,9,Hitam,Surya
-251,Nicholas Darmawan,16519009,18219028,LAKI-LAKI,STI,async/009_Nicholas Darmawan_STI.JPG,10,Merah,Nicho
-252,Imam Nurul Hukmi,16519025,13519150,LAKI-LAKI,IF,async/025_Imam Nurul Hukmi_IF.JPG,10,Jakang,Imam
-253,Ridho Daffasyah,16519027,13519038,LAKI-LAKI,IF,async/027_Ridho Daffasyah_IF.JPG,10,Jakang,Ridho
-254,Mohammad Yahya Ibrahim ,16519242,13519091,LAKI-LAKI,IF,async/242_Mohammad Yahya Ibrahim_IF.JPG,10,Biru,Yahya
-255,Raffi Fadhlurrahman Putra Rahiem ,16519315,13519219,LAKI-LAKI,IF,async/315_Raffi Fadhlurrahman Putra Rahiem_IF.JPG,10,Biru,Raffi
-256,Reihan Andhika Putra,16519316,13519043,LAKI-LAKI,IF,async/316_Reihan Andhika Putra_IF.JPG,10,Biru,Reihan
-257,Cahaya Naja,16519340,18219059,PEREMPUAN,STI,async/340_Cahaya Naja Suharningtyas_STI.JPG,10,Coklat,Naja
-258,Rizky Anggita S. Siregar,16519348,13519132,LAKI-LAKI,IF,async/348_Rizky Anggita Syarbaini Siregar_IF.JPG,10,Hitam/Putih/Merah,Gita
-259,Kadek Dwi Bagus Ananta Udayana,16519350,13519057,LAKI-LAKI,IF,async/350_Kadek Dwi Bagus Ananta Udayana_IF.JPG,10,Putih,Dwi
-260,Stella Ribli,16519358,18219027,PEREMPUAN,STI,async/358_Stella Ribli_STI.JPG,10,Putih,Stella
-261,Syamil Cholid Abdurrasyid,16519369,13519052,LAKI-LAKI,IF,async/369_Syamil Cholid Abdurrasyid_IF.JPG,10,Merah,Syamil
-262,Gde Anantha Priharsena,16519373,13519026,LAKI-LAKI,IF,async/373_Gde Anantha Priharsena_IF.JPG,10,Putih,Nantha
-263,Cynthia Rusadi,16519381,13519118,PEREMPUAN,IF,async/381_Cynthia Rusadi_IF.JPG,10,Coklat,Cynthia/Acin
-264,Ryo Richardo,16519400,13519193,LAKI-LAKI,IF,async/400_Ryo Richardo_IF.JPG,10,Hitam,Ryo
-265,Muhammad Fikri. N,16519406,13519069,LAKI-LAKI,IF,async/406_Muhammad Fikri N_IF.JPG,10,Biru,FIkri
-266,Reynard Hans P,16519423,13519119,LAKI-LAKI,IF,async/423_Reynard Hans Prayoga_IF.JPG,10,Hitam/Putih,Hans
-267,Kemal Lutfian Cicero,16519425,18219091,LAKI-LAKI,STI,async/425_Kemal Lutfian Cicero_STI.JPG,10,Hitam,Kemal/Cakep
-268,Muhammad Atthaumar Rifqy,16519426,13519148,LAKI-LAKI,IF,async/426_Muhammad Atthaumar Rifqy_IF.JPG,10,Putih/Merah,Rifqy
-269,Awwala Nisa Kamila,16519431,13519208,PEREMPUAN,IF,async/431_Awwala Nisa Kamila_IF.JPG,10,Pink,Awwala
-270,Richard Rivaldo,16519433,13519185,LAKI-LAKI,IF,async/433_Richard Rivaldo_IF.JPG,10,Kuning,Richard
-271,Billy Julius,16519437,13519094,LAKI-LAKI,IF,async/437_Billy Julius_IF.JPG,10,Merah,BJ
-272,Karel Renaldi,16519445,13519180,LAKI-LAKI,IF,async/445_Karel Renaldi_IF.JPG,10,Hitam,Karel
-273,James Chandra,16519446,13519078,LAKI-LAKI,IF,async/446_James Chandra_IF.JPG,10,Kuning,James
-274,Graciella Valeska Liander,16519447,18219075,PEREMPUAN,STI,async/447_Graciella Valeska Liander_STI.JPG,10,Merah,Grace
-275,Muhammad Galih Raihan Ramadhan,16519455,13519017,LAKI-LAKI,IF,async/455_Muhammad Galih Raihan Ramadhan_IF.JPG,10,Hitam,Galih
-276,Nadira Fawziyya Masnur,16519458,18219004,PEREMPUAN,STI,async/458_Nadira Fawziyya Masnur_STI.JPG,10,Putih,Nadira
-277,Akeyla Prafia Naufal,16519459,13519178,LAKI-LAKI,IF,async/459_Akeyla Pradia Naufal_IF.JPG,10,Jamal,Akeyla
-278,Alvin Wilta,16519534,13519163,LAKI-LAKI,IF,async/534_Alvin Wilta_IF.JPG,10,Putih,Alvin
-279,Steven Nataniel,16519015,13519002,LAKI-LAKI,IF,async/16519015_Steven Nataniel Kodyat_IF.png,11,Hitam,Viel/VL
-280,Dwiky Hared Darmawan,16519028,18219048,LAKI-LAKI,STI,async/16519028_Dwiky Hared Darmawan_STI.png,11,Hitam,Dwiky
-281,Kevin Kencana,16519074,18219050,LAKI-LAKI,STI,async/16519074_Kevin Kencana_STI.png,11,Putih,Kevin/Aliang
-282,Hera Shafira,16519115,13519131,PEREMPUAN,IF,async/16519115_Hera Shafira_IF.png,11,Abu-abu,Hera
-283,Zarfa Naida Pratista,16519118,18219014,PEREMPUAN,STI,async/16519118_Zarfa Naida Pratista_STI.png,11,Abu-abu,Zarfa/Caca
-284,Leonard Matheus,16519382,13519215,LAKI-LAKI,IF,async/16519382_Leonard Matheus_IF.png,11,Biru,Leo
-285,Marcello Faria,16519414,13519086,LAKI-LAKI,IF,async/16519414_Marcello Faria_IF.png,11,HItam,Cello
-286,Frederic Ronaldi,16519422,13519134,LAKI-LAKI,IF,async/16519422_Frederic Ronaldi_IF.png,11,Putih,Eric
-287,Irvin Andryan Pratomo,16519429,13519162,LAKI-LAKI,IF,async/16519429_Irvin Andryan Pratomo_IF.png,11,Biru,Irvin
-288,Vania Alya Qonita,16519452,18219090,PEREMPUAN,STI,async/16519452_Vania Alya Qonita_STI.png,11,Hitam/Orange,Vania
-289,Muhammad Zubair,16519453,13519172,LAKI-LAKI,IF,async/16519453_Muhammad Zubair_IF.png,11,Abu-abu,Zubair
-290,Rahmat Pujiatno,16519456,18219062,LAKI-LAKI,STI,async/16519456_Rahmat Pujiatno_STI.png,11,Abu-abu,Rahmat
-291,Jauhar Wibisono,16519460,13519160,LAKI-LAKI,IF,async/16519460_Jauhar Wibisono_IF.png,11,Merah,Wibi
-292,Randy Zakya Suchrady,16519461,13519061,LAKI-LAKI,IF,async/16519461_Randy Zakya Suchrady_IF.jpg,11,Putih,Randy
-293,Syarifah Aisha Geubrina Yasmin,16519462,13519089,PEREMPUAN,IF,async/16519462_Syarifah Aisha Geubrina Yasmin_IF.png,11,Hitam,Aisha
-294,Albertus Agung Sinurat,16519463,18219066,LAKI-LAKI,STI,async/16519463_Albertus Agung_STI.png,11,Hitam/Putih,Agung
-295,Febriawan Ghally Ar Rahman,16519466,13519111,LAKI-LAKI,IF,async/16519466_Febriawan Ghally Ar Rahman_IF.jpg,11,Biru/Kuning,Ghally
-296,Kevin Katsura Dani Sitanggang,16519468,13519216,LAKI-LAKI,IF,async/16519468_Kevin Katsura D. S._IF.jpg,11,Coklat,Kevin
-297,Muhammad Alfandavi Aryo Utomo,16519471,13519211,LAKI-LAKI,IF,async/16519471_M. Alfandavi Aryo Utomo_IF.jpg,11,Putih,Alfan
-298,Michael PG,16519472,13519121,LAKI-LAKI,IF,async/16519472_Michael Philip_IF.png,11,Putih/Biru,PG
-299,Yusuf Alwansyah Hilmy,16519474,13519005,LAKI-LAKI,IF,async/16519474_Yusuf Alwansyah Hilmy_IF.png,11,HItam,Alwan
-300,Stefanus,16519475,13519101,LAKI-LAKI,IF,async/16519475_Stefanus_IF.png,11,Biru,Stefanus
-301,Thomas Ferdinand Martin,16519477,13519099,LAKI-LAKI,IF,async/16519477_Thomas Ferdinand Martin_IF.png,11,Biru,Thomas
-302,Azmi Muhammad Syazwana,16519479,13519151,LAKI-LAKI,IF,async/16519479_Azmi Muhammad Syazwana_IF.png,11,Hijau,Azmi
-303,Rayhan Habib,16519482,18219088,LAKI-LAKI,STI,async/default.png,11,-,Habib
-304,Arsa Daris Gintara,16519491,13519037,LAKI-LAKI,IF,async/16519491_Arsa Daris Gintara_IF.jpg,11,Biru,Arsa
-305,Christian Tobing,16519505,13519109,LAKI-LAKI,IF,async/16519505_Christian Tobing Alexandro_IF.jpg,11,Putih,Christian
-306,Panegak Raya Pasaribu,16519023,18219029,LAKI-LAKI,STI,async/16519023_Panegak Raya Pasaribu_STI.jpg,12,Abu-abu,Ray
-307,Muhammad Darrel Alwafin,16519043,18219109,LAKI-LAKI,STI,async/16519043_Muhammad Darrel Alwafin_STI.png,12,Putih,Darrel
-308,Stefanny,16519189,18219087,PEREMPUAN,STI,async/16519189_Stefanny_STI.png,12,Hitam,Stefanny
-309,Maximillian Lukman,16519266,13519153,LAKI-LAKI,IF,async/16519266_Maximillian Lukman_IF.png,12,Abu-abu,Maxi
-310,Karlsen Adiyasa Bachtiar,16519330,13519001,LAKI-LAKI,IF,async/16519330_Karlsen Adiyasa Bachtiar_IF.png,12,Hitam,Karlsen
-311,Rahmat Fabhian Aminuddin,16519435,18219055,LAKI-LAKI,STI,async/16519435_Rahmat Fabhian Aminuddin_STI.png,12,Hitam,Abhi
-312,Yudi Alfayat,16519450,13519051,LAKI-LAKI,IF,async/16519450_Yudi Alfayat_IF.png,12,Abu-abu,Yudi
-313,Nadya Laurentia,16519473,18219071,PEREMPUAN,STI,async/16519473_Nadya Laurentia_STI.png,12,Biru,Nadya
-314,Haikal Lazuardi Fadil,16519478,13519027,LAKI-LAKI,IF,async/16519478_Haikal Lazuardi Fadil_IF.png,12,Putih,Haikal
-315,Vincentius Samuel Gondokusumo,16519480,18219024,LAKI-LAKI,STI,async/16519480_Vincent_STI.png,12,Hijau,Vincent
-316,Christian Gunawan,16519483,13519199,LAKI-LAKI,IF,async/16519483_Christian Gunawan_IF.jpg,12,Biru,Christian
-317,Jusuf Junior Athala,16519484,13519174,LAKI-LAKI,IF,async/16519484_Jusuf Junior Athala_IF.jpg,12,Jamal,Jusuf
-318,Aria Bachrul Ulum Berlian,16519487,13519115,LAKI-LAKI,IF,async/16519487_Aria Bachrul Ulum Berlian_IF.jpg,12,Hitam,Aria
-319,Shelly Valencia,16519489,18219016,PEREMPUAN,STI,async/16519489_Shelly Valencia_STI.jpg,12,Hitam,Shelly
-320,Christopher Davin Leoputra,16519493,18219037,LAKI-LAKI,STI,async/16519493_Christopher Davin Leoputra_STI.jpg,12,Merah,Davin
-321,Mhd. Hiro Agayeff Muslion,16519495,13519070,LAKI-LAKI,IF,async/16519495_Mhd. Hiro Agayeff Muslion_IF.jpg,12,Merah,Hiro
-322,Bintang Fajarianto,16519498,13519138,LAKI-LAKI,IF,async/16519498_Bintang Fajarianto_IF.jpg,12,Biru,Bintang
-323,Kristofer Hartono,16519500,18219102,PEREMPUAN,STI,async/16519500_Kristofer Hartono_STI.jpg,12,Hitam,Kristo
-324,Melita,16519501,13519063,LAKI-LAKI,IF,async/16519501_Melita_IF.jpg,12,Coklat,Melita
-325,Jose Galbraith Hasintongan,16519508,13519022,LAKI-LAKI,IF,async/16519508_Jose Galbraith Hasintongan_IF.jpg,12,Hitam,Jose
-326,Naufal Anas Nugrahanto,16519509,18219068,LAKI-LAKI,STI,async/16519509_Naufal Anas Nugrahanto_STI.jpg,12,HItam,Anas
-327,Hizkia Raditya Pratama Roosadi,16519515,13519087,LAKI-LAKI,IF,async/16519515_Hizkia Raditya Pratama Roosadi_IF.jpg,12,Putih,Hizkia
-328,Muhammad Naufal Izza Fikry,16519516,13519088,LAKI-LAKI,IF,async/16519516_Muhammad Naufal Izza Fikry_IF.jpg,12,Hitam,Naufal
-329,Tanur Rizaldi Rahardjo,16519525,13519214,LAKI-LAKI,IF,async/16519525_Tanur Rizaldi Rahardjo_IF.jpg,12,Abu-abu,Tanur
-330,Ardhana Putra Wibowo,16519526,18219009,LAKI-LAKI,STI,async/16519526_Ardhana Putra Wibowo_STI.jpg,12,Coklat,Ardhana
-331,Maulana Anindita Awi Arjwasa,16519527,18219086,LAKI-LAKI,STI,async/16519527_Maulana Anindita Awi Arjwasa_STI.jpg,12,Abu-abu,Dito
-332,Kahfi Soobhan Zulkifli,16519530,13519012,LAKI-LAKI,IF,async/16519530_Kahfi Soobhan Zulkifli_IF.jpg,12,Hitam,Kahfi
+0,Ega Stephanie,16519002,18219041,PEREMPUAN,STI,/async/16519002_Ega Stephanie_STI.jpg,1,Hitam,Ega
+1,Giant Andreas Tambunan,16519003,13519127,LAKI-LAKI,IF,/async/16519002_Giant Andreas Tambunan_IF.jpg,1,Hitam,Giant
+2,Joel Triwira,16519006,13519073,LAKI-LAKI,IF,/async/16519006_Joel Triwira_IF.jpg,1,Hijau,Joel
+3,Prana Gusriana,16519008,13519195,LAKI-LAKI,IF,/async/16519008_Prana Gusriana_IF.jpg,1,Hitam,Prana 
+4,Jesson Gosal Yo,16519013,13519079,LAKI-LAKI,IF,/async/16519013_Jesson Yo_IF.jpg,1,Jamal,Jesson
+5,Nabelanita Utami,16519014,13519104,PEREMPUAN,IF,/async/16519014_Nabelanita Utami_IF.jpg,1,Merah/Putih,Abel
+6,M Fadli Gunardi,16519017,13519130,LAKI-LAKI,IF,/async/16519017_Muhammad Fadli_IF.jpg,1,Biru Muda,Fadli
+7,I Gede Govindabhakta,16519020,13519139,LAKI-LAKI,IF,/async/16519020_I Gede Govindabhakta_IF.jpg,1,Putih,Govin
+8,Dwi Kalam Amal Tauhid,16519021,13519210,LAKI-LAKI,IF,/async/13518021_Dwi Kalam_IF.PNG,1,Hitam,Dwi
+9,Gavriel Benny,16519032,18219078,LAKI-LAKI,STI,/async/16519032_Gavriel Benny_STI.jpg,1,Hitam,Gavriel
+10,Rayhan Asadel,16519035,13519196,LAKI-LAKI,IF,/async/16519035_Rayhan Asadel_IF.jpg,1,Hitam,Asadel
+11,Faisal Helmi Wicaksono,16519039,18219025,LAKI-LAKI,STI,/async/16519039_Faisal Helmi_STI.jpg,1,Hitam,Faisal
+12,Afifah Fathimah Qur'ani,16519053,13519183,PEREMPUAN,IF,/async/16519053_Afifah FQ_IF.jpg,1,Biru,Afifah
+13,Daniel Mario Reynaldi,16519055,13519031,LAKI-LAKI,IF,/async/16519055_Daniel Mario_IF.jpg,1,Jakang,Daniel
+14,Giovani Anggasta,16519056,13519155,PEREMPUAN,IF,/async/16519056_Gea_IF.jpg,1,Merah,Gea
+15,Ibnu Hafizh,16519060,13519177,LAKI-LAKI,IF,/async/16519060_Jack_IF.jpg,1,Hitam,Jack/Jek
+16,Gayuh Tri Rahutami,16519062,13519192,PEREMPUAN,IF,/async/16519062_Tami_IF.jpg,1,Biru Muda,Tami
+17,Leo Cardhio Sih Pratama,16519067,13519220,LAKI-LAKI,IF,/async/16519067_Leo C_IF.jpg,1,Hitam,Leo
+18,Ryan Kurnia Hidayatullah,16519068,13519212,LAKI-LAKI,IF,/async/16519068_Ryan Kurnia_IF.jpg,1,Merah,Yankur
+19,M Rifandy Zulvan,16519078,18219021,LAKI-LAKI,STI,/async/16519078_Rifandy_STI.jpg,1,Hitam,Rifandy
+20,Sharon Bernadetha Marbun,16519091,13519092,PEREMPUAN,IF,/async/16519091_Detha_IF.jpg,1,Putih,Detha
+21,Nizamixavier Rafif Lutvie,16519099,13519085,LAKI-LAKI,IF,/async/16519099_Rafif_IF.jpg,1,Putih,Rafif
+22,Wilbert Fangderson,16519100,13519025,LAKI-LAKI,IF,/async/16519100_Wilbert Fang_IF.jpg,1,Putih,Fang
+23,Fransiskus Febryan Suryawan,16519187,13519124,LAKI-LAKI,IF,/async/16519187_Febryan_IF.jpg,1,Jamal,Suggoi
+24,Syihabuddin Yahya Muhammad,16519275,13519149,LAKI-LAKI,IF,/async/16519275_Syihabuddin_IF.jpg,1,Jamal,Syihab
+25,Ferdian Airlangga,16519277,18219112,LAKI-LAKI,STI,/async/16519112_Ferdian_STI.jpg,1,Biru,Ferdian
+26,Muhammad Tamiramin Hayat Suhendar,16519502,13519129,LAKI-LAKI,IF,/async/16519502_Tamir_IF.jpg,1,Hitam,Tamir
+27,Muhammad Ilyas Irfan Syiraaj,16519517,18219085,LAKI-LAKI,STI,/async/16519517_Ilyas_STI.jpg,1,Hitam/Hijau,Ilyas
+28,Gisela Ivenita Mokalu,16519024,18219073,PEREMPUAN,STI,/async/16519024_Gisela Ivenita Mokalu_STI.png,2,Putih,Gisel
+29,Rafi Raihansyah Munandar,16519030,13519154,LAKI-LAKI,IF,/async/16519030_Rafi Raihansyah Munandar_IF.png,2,Putih/Abu-abu,Rafi
+30,Nurul Izza A,16519042,18219011,PEREMPUAN,STI,/async/16519042_Nurul Izza Afkharinah_STI.png,2,Hijau,Nurul
+31,Ari Pardomuan M,16519044,18219045,LAKI-LAKI,STI,/async/16519044_Ari Pardomuan Manurung_STI.png,2,Hitam,Ari
+32,Ida Bagus Raditya Avanindra Mahaputra,16519045,18219117,LAKI-LAKI,STI,/async/16519045_Ida Bagus Raditya Avanindra Mahaputra_STI.png,2,Hitam,Tugus
+33,Ahmad Fadhil Ramadhan,16519048,18219026,LAKI-LAKI,STI,/async/16519048_Ahmad Fadhil Ramadhan_STI.png,2,Hitam,Fadhil
+34,Christopher Justine William,16519054,13519006,LAKI-LAKI,IF,/async/16519054_Christopher Justine William_IF.png,2,Hitam/Biru,Justine
+35,Dwianditya Hanif Raharjanto,16519058,13519046,LAKI-LAKI,IF,/async/16519058_Dwianditya Hanif Raharjanto_IF.png,2,Merah,Hanip
+36,Mochamad Kautsar Fadhilah,16519063,18219039,LAKI-LAKI,STI,/async/16519063_Mochamad Kautsar Fadhilah_STI.png,2,Hitam,Kautsar
+37,Bryan Rinaldo,16519069,13519103,LAKI-LAKI,IF,/async/16519069_Bryan Rinaldo_IF.png,2,Hitam,Bryan
+38,Muhammad faiq dhiya ul haq,16519075,18219013,LAKI-LAKI,STI,/async/16519075_Muhammad Faiq Dhiya Ul Haq_STI.png,2,Putih,Faiq
+39,Fernaldi Fauzie,16519076,18219099,LAKI-LAKI,STI,/async/16519076_Fernaldi Fauzie_STI.png,2,Jingga,Fernaldi
+40,Akifa Nabil Ufairah,16519081,13519179,PEREMPUAN,IF,/async/16519081_Akifa Nabil Ufairah_IF.png,2,Putih,Akifa
+41,Ferdy Irawan Firdaus,16519082,13519030,LAKI-LAKI,IF,/async/16519082_Ferdy Irawan Firdaus_IF.png,2,Putih,Ferdy
+42,Siti Iedrania Azzariyat Akbar,16519109,13519137,PEREMPUAN,IF,/async/16519109_Siti Ledrania Azzariyat Akbar_IF.png,2,Hitam/Coklat,Nia
+43,Denilsen Axel Candiasa,16519116,13519059,LAKI-LAKI,IF,/async/16519116_Denilsen Axel Candiasa_ IF.png,2,Hitam,Denil
+44,Rhea Elka Pandumpi,16519120,13519047,PEREMPUAN,IF,/async/16519120_Rheha Elka Pandumpi_IF.png,2,Abu-abu,Rhea
+45,Reyhan Emyr Arrosyid,16519129,13519167,LAKI-LAKI,IF,/async/16519129_Reyhan Emyr Arrosyid_IF.png,2,Putih,Emyr
+46,Rexy Gamaliel Rumahorbo,16519132,13519010,LAKI-LAKI,IF,/async/16519132_Rexy Gamaliel Rumahorbo_IF.png,2,Hijau,Rexy
+47,Jonathan Christhoper Jahja,16519133,13519144,LAKI-LAKI,IF,/async/16519133_Jonathan Christhoper Jahja_IF.png,2,Biru/Hijau/Hitam,Jojo
+48,Naufal Yahya Kurnianto,16519140,13519141,LAKI-LAKI,IF,/async/16519140_Naufal Yahya Kurnianto_IF.png,2,Putih,Nopal
+49,Gian Denggan Bendjamin,16519143,18219061,LAKI-LAKI,STI,/async/16519143_Gian Denggan Bendjamin_STI.png,2,Putih,Gian
+50,Mahameru Ds,16519177,13519014,LAKI-LAKI,IF,/async/16519177_Mahameru Ds_IF.png,2,Hitam,Eru
+51,Relieyan Ramadhan Hilman,16519196,13519089,LAKI-LAKI,IF,/async/16519196_Relieyan Ramadhan Hilman_STI.png,2,Hitam,Reliyan
+52,Daffa Ananda Pratama Resyaly,16519265,13519107,LAKI-LAKI,IF,/async/16519265_Daffa Ananda Pratama Resyaly_IF.png,2,Biru,Daffa
+53,Shifa Salsabiila,16519427,13519106,PEREMPUAN,IF,/async/16519427_Shifa Salsabiila_IF.png,2,Hitam,Shifa
+54,Rais Vaza Man Tazakka,16519464,13519060,LAKI-LAKI,IF,/async/16519464_Rais Vaza Man Tazakka_IF.png,2,Jamal,Vaza
+55,Almeiza Arvin Muzaki,16519510,13519066,LAKI-LAKI,IF,/async/16519510_Almeiza Arvin Muzaki_IF.png,2,Hitam,Arvin
+56,Leony Angela,16519046,18219032,PEREMPUAN,STI,/async/16519046_Leony Angela_STI.png,3,Hitam,Leony
+57,Muhammad Jafar Gundari,16519070,13519197,LAKI-LAKI,IF,/async/16519070_Muhammad Jafar Gundari_IF.png,3,Abu-abu,Jafar
+58,Fauzan Yubairi Indrayadi ,16519071,13519171,LAKI-LAKI,IF,/async/16519071_Fauzan Yubairi Indrayadi_IF.png,3,Hitam,Fauzan/Ojan
+59,Zachrandika Alif Syahreza,16519080,18219036,LAKI-LAKI,STI,/async/16519080_Zachrandika Alif Syahreza_STI.png,3,Coklat,Aladin
+60,Mohammad dwinta harits cahyana,16519088,13519041,LAKI-LAKI,IF,/async/16519088_Mohammad Dwinta Harits Cahyana.png,3,Merah,Dwinta
+61,Jonathan Richard Sugandhi,16519089,13519128,LAKI-LAKI,IF,/async/16519089_Jonathan Richard Sugandhi_IF.png,3,Biru,Richie
+62,Rahmah Khoirussyifa' Nurdini,16519090,13519013,PEREMPUAN,IF,/async/16519090_Rahmah Khoirussyifa_ Nurdini_IF.png,3,Hitam,Rahma
+63,Rafidika Samekto,16519092,13519207,LAKI-LAKI,IF,/async/16519092_Rafidika Samekto_IF.png,3,Hitam,Dika
+64,M. Abdi Haryadi. H,16519095,13519156,LAKI-LAKI,IF,/async/16519095_M Abdi Haryadi H_IF.png,3,Merah,Abdi
+65,Jeane Mikha Erwansyah,16519096,13519116,PEREMPUAN,IF,/async/16519096_Jeane Mikha Erwansyah_IF.png,3,Hitam,Jeane
+66,16519098_Dzaki Muhammad_IF.png,16519098,13519049,LAKI-LAKI,IF,/async/16519098_Dzaki Muhammad_IF.png,3,Hitam,Dzaki
+67,Fadli Naufal Rahman,16519105,18219043,LAKI-LAKI,STI,/async/16519105_Fadli Naufal Rahman_STI.png,3,Coklat,Fadli
+68,Allief Nuriman,16519117,13519221,LAKI-LAKI,IF,/async/16519117_Allief Nuriman_IF.png,3,Merah,Allief
+69,Paul Marturia Sihombing,16519121,18219044,LAKI-LAKI,STI,/async/16519121_Paul Marturia Sihombing_STI.png,3,Hitam,Paul
+70,Dirasiella Damasari Hamdani,16519128,18219072,PEREMPUAN,STI,/async/16519128_Dirasiella Damasari Hamdani_STI.png,3,Hitam,Dira
+71,Stefanus Jeremy Aslan,16519146,13519175,LAKI-LAKI,IF,/async/16519146_Stefanus Jeremy Aslan_IF.png,3,Putih,Aslan/Stefanus
+72,Nathaniel Jason,16519156,13519108,LAKI-LAKI,IF,/async/16519156_Nathaniel Jason_IF.png,3,Putih,Niel
+73,muhammad vito ibrahim,16519157,18219069,LAKI-LAKI,STI,/async/16519157_Muhammad Vito Ibrahim_STI.png,3,Abu-abu,Vito
+74,David Owen Adiwiguna,16519160,13519169,LAKI-LAKI,IF,/async/16519160_David Owen Adiwiguna_IF.png,3,Hijau,DO/David
+75,Faris Hasim Syauqi,16519161,13519050,LAKI-LAKI,IF,/async/16519161_Faris Hasim Syauqi_IF.png,3,Putih,Faris
+76,Regina Dionne Aurelia H,16519162,18219030,PEREMPUAN,STI,/async/16519162_Regina Dionne Aurelia Hadiprodjo_STI.png,3,Hitam,Dion
+77,Josep Marcello,16519170,13519164,LAKI-LAKI,IF,/async/16519170_Josep Marcello_IF.png,3,Hitam,Sep
+78,Wilson Tandya,16519228,13519209,LAKI-LAKI,IF,/async/16519228_Wilson Tandya_IF.png,3,Kuning,Wilson
+79,Galuh Dipa Bharata,16519252,18219100,LAKI-LAKI,STI,/async/16519252_Galuh Dipa Bharata_STI.png,3,Putih,Galuh
+80,Nicholas Chen,16519343,13519029,LAKI-LAKI,IF,/async/16519343_Nicholas Chen_IF.png,3,Ungu,Nicho
+81,Kumaras Gideon Sitorus,16519440,18219074,LAKI-LAKI,STI,/async/16519440_Kumaras Gideon Sitorus_STI.png,3,Hitam,Aras
+82,Muhammad Iqbal Alam Firmansyah,16519511,18219116,LAKI-LAKI,STI,/async/16519511_Muhammad Iqbal Alam Firmansyah_STI.png,3,Hitam,Iqbal
+83,M Hilal Alhamdy,16519522,13519024,LAKI-LAKI,IF,/async/16519522_M Hilal Alhamdy_IF.png,3,Putih,Hilal
+84,Feralezer L. G. Tampubolon,16519059,13519062,LAKI-LAKI,IF,/async/16519059_Feralezer Leonard Gorga Tampubolon_IF.jpg,4,Jakang,Feral
+85,Mochammad Fatchur Rochman,16519083,13519009,LAKI-LAKI,IF,/async/16519083_Mochammad Fatchur Rochman_IF.jpg,4,Biru,Fatchur
+86,M. Fahrel Naufal A.,16519101,18219067,LAKI-LAKI,STI,/async/16519101_Muhammad Fahrel Naufal Aldiansyah_STI.jpg,4,Putih,Fahrel
+87,Nabilah Erfariani,16519108,13519181,PEREMPUAN,IF,/async/16519108_Nabilah Erfariani_IF.jpg,4,Hitam,Nabilah
+88,Gregorius Dimas Baskara,16519111,13519190,LAKI-LAKI,IF,/async/16519111_Gregorius Dimas Baskara_IF.jpg,4,Hitam,Dimas
+89,Shafira Naya Aprisadianti,16519112,13519040,PEREMPUAN,IF,/async/16519112_Shafira Naya Aprisadianti_IF.jpg,4,Coklat,Shafira
+90,Leonardus Brandon Luwianto,16519113,13519102,LAKI-LAKI,IF,/async/16519113_Leonardus Brandon Luwianto_IF.jpg,4,Pink,Brandon
+91,Raihan Fadhilah Ahmad,16519119,18219111,LAKI-LAKI,STI,/async/16519119_Raihan Fadhilah Ahmad_STI.jpg,4,Jakang,Raihan
+92,Dionisius Darryl Hermansyah,16519126,13519058,LAKI-LAKI,IF,/async/16519126_Dionisius Darryl Hermansyah_IF.jpg,4,Hitam,Dion
+93,Wisnu Aditya Samiadji,16519135,13519093,LAKI-LAKI,IF,/async/16519135_Wisnu Aditya Samiadji_IF.jpg,4,Kuning,Wisnu
+94,Jeremia Axel Bachtera,16519136,13519188,LAKI-LAKI,IF,/async/16519136_Jeremia Axel Bachtera_IF.jpg,4,Jakang,Axel
+95,Raffi Zulvian Muzhaffar,16519138,13519003,LAKI-LAKI,IF,/async/16519138_Raffi Zulvian Muzhaffar_IF.jpg,4,Biru,Rajul/Raffi
+96,Ramadhana Bhanuharya Wishnumurti,16519142,13519203,LAKI-LAKI,IF,/async/16519142_Ramadhana Bhanuharya Wishnumurti_IF.jpg,4,Hitam,Wishnu
+97,Anindha Catur Arifani,16519144,18219084,PEREMPUAN,STI,/async/16519144_Anindha Catur Arifani_STI.jpg,4,Hitam,Nindha
+98,Jacelyn Felisha,16519145,18219097,PEREMPUAN,STI,/async/16519145_Jacelyn Felisha_STI.jpg,4,Biru,Jacelyn
+99,Gilbert Christian,16519147,18219005,LAKI-LAKI,STI,/async/16519147_Gilbert Christian Sinaga_STI.jpg,4,Hitam,Gibet
+100,Ryandito Diandaru,16519150,13519157,LAKI-LAKI,IF,/async/16519150_Ryandito Diandaru_IF.jpg,4,Putih,Dito
+101,Jason Stanley Yoman,16519165,13519019,LAKI-LAKI,IF,/async/16519165_Jason Stanley Yoman_IF.jpg,4,Kuning,Jason
+102,Alexander,16519167,13519090,LAKI-LAKI,IF,/async/16519167_Alexander_IF.jpg,4,Jamal,Alex
+103,Syifa Nurul Afriani,16519172,18219057,PEREMPUAN,STI,/async/16519172_Syifa Nurul Afriani_STI.jpg,4,Ungu,Syifa
+104,Pandu Puncak Prawira,16519173,18219047,LAKI-LAKI,STI,/async/16519173_Pandu Puncak Prawira_STI.jpg,4,Hitam,Pandu
+105,Muhammad Fawwaz Naabigh,16519184,13519206,LAKI-LAKI,IF,/async/16519184_Muhammad Fawwaz Naabigh_IF.jpg,4,Hijau,Fawwaz
+106,Nabila Hannania,16519186,13519097,PEREMPUAN,IF,/async/16519186_Nabila Hannania_IF.jpg,4,Biru Muda,Hanny
+107,Michael Ryan Martin,16519191,18219046,LAKI-LAKI,STI,/async/16519191_Michael Ryan Martin_STI.jpg,4,Hitam,Michael
+108,Muhammad Akram Al Bari,16519407,13519142,LAKI-LAKI,IF,/async/16519407_Muhammad Akram Al Bari_IF.jpg,4,Jakang,Akram
+109,Juan Louis Rombetasik,16519485,13519075,LAKI-LAKI,IF,/async/16519485_Juan Louis Rombetasik_IF.jpg,4,Merah,Juan
+110,Ariya Adinatha,16519524,13519048,LAKI-LAKI,IF,/async/16519524_Ariya Adinatha_IF.jpg,4,Abu-abu,Ariya
+111,Muhammad Fahkry Malta,16519532,13519032,LAKI-LAKI,IF,/async/16519532_Muhammad Fahkry Malta_IF.jpg,4,Abu-abu,Fahri
+112,Anastasia Beatrice Caroline,16519040,18219081,PEREMPUAN,STI,/async/16519040_Anastasia Beatrice Caroline_STI.png,5,Merah/Hitam,Olin
+113,Muhammad Bintang Pananjung,16519159,13519004,LAKI-LAKI,IF,/async/16519159_Muhammad Bintang Pananjung_IF.png,5,Coklat,Bintang
+114,Arjuna Marcelino,16519163,13519021,LAKI-LAKI,IF,/async/16519163_Arjuna M_IF.png,5,Biru muda,Arjuna
+115,Tarbiyatun Nafiah,16519169,18219023,PEREMPUAN,STI,/async/16519169_Tarbiyatun Nafiah_STI.png,5,Biru,Nafi
+116,Mgs. Tabrani,16519171,13519122,LAKI-LAKI,IF,/async/16519171_Mgs Tabrani_IF.png,5,Merah,Tabrani
+117,Shaffira Alya Mevia,16519174,13519083,PEREMPUAN,IF,/async/16519174_Shaffira Alya Mevia_IF.png,5,Merah,Alya
+118,Alif Bhadrika Parikesit,16519175,13519186,LAKI-LAKI,IF,/async/16519175_Alif Bhadrika Parikesit_IF.png,5,Putih,Alif
+119,Ruhiyah Faradishi Widiaputri,16519181,13519034,PEREMPUAN,IF,/async/16519181_Ruhiyah Faradishi Widiaputri_IF.png,5,Biru,Fara
+120,Muhammad Rizal Muhaimin,16519182,13519136,LAKI-LAKI,IF,/async/16519182_Muhammad Rizal Muhaimin_IF.png,5,Hijau,Rizal
+121,Azka Redhia D M,16519183,18219007,LAKI-LAKI,STI,/async/default.png,5,-,Azka
+122,Nabil Nabighah,16519188,13519168,LAKI-LAKI,IF,/async/16519188_Nabil Nabighah_IF.png,5,Putih,Nabil
+123,Andres Jerriel Sinabutar,16519190,13519218,LAKI-LAKI,IF,/async/16519190_Andres Jerriel Sinabutar_IF.jpg,5,Putih,Andres
+124,Justin Dermawan Ikhsan,16519192,18219095,LAKI-LAKI,STI,/async/16519192_Justin Dermawan Ikhsan_STI.png,5,Hitam,JJ
+125,Patricia Aurelia Tekad Tuerah,16519194,18219056,PEREMPUAN,STI,/async/16519194_Patricia Aurelia Tekad Tuerah_STI.png,5,Ungu/Putih,Aurel
+126,Alexander ludwig Agu,16519195,18219033,LAKI-LAKI,STI,/async/16519195_Alexander Ludwig_STI.png,5,Hitam,Ludwig
+127,Renaldi Arlin,16519199,13519114,LAKI-LAKI,IF,/async/16519199_Renaldi Arlin_IF.png,5,Biru,Arlin/Aldi
+128,Bonaventura Bagas Sukarno,16519200,18219017,LAKI-LAKI,STI,/async/16519200_Bonaventura Bagas Sukarno_STI.png,5,Hitam,Bona
+129,Fabian Savero Diaz Pranoto,16519201,13519140,LAKI-LAKI,IF,/async/16519201_Fabian Savero Diaz Pranoto_IF.jpg,5,Hitam,Fabian
+130,Mohammad Sheva Almeyda Sofjan,16519217,13519018,LAKI-LAKI,IF,/async/16519217_Mohammad Sheva Almeyda Sofjan_IF.png,5,Abu-abu,Sheva
+131,Muhammad Rabbani Brata,16519224,18219118,LAKI-LAKI,STI,/async/16519224_Muhammad Rabbani Brata_STI.png,5,Hijau,Bani
+132,Faris Aziz,16519231,13519065,LAKI-LAKI,IF,/async/16519231_Faris Aziz_IF .png,5,Jakang,Faziz
+133,Muchammad Fathurrahman Azhar,16519234,18219054,LAKI-LAKI,STI,/async/16519234_Muchammad Fathurrahman Azhar_STI.png,5,Jamal,Fathur
+134,Leonardus James Wang,16519241,13519189,LAKI-LAKI,IF,/async/16519241_Leonardus James Wang_IF.png,5,Putih,James
+135,Aurelius Marcel Candra,16519243,13519198,LAKI-LAKI,IF,/async/16519243_Marcel_IF.jpg,5,Hitam/Putih,Marcel
+136,Naufal Alexander Suryasumirat,16519247,13519135,LAKI-LAKI,IF,/async/16519247_Naufal Alexander Suryasumirat_IF .png,5,Hitam,Noler
+137,Harith Fakhiri Setiawan,16519269,13519161,LAKI-LAKI,IF,/async/16519269_Harith Fakhiri Setiawan_IF .png,5,Abu-abu,Harith
+138,Hanif Arroisi Mukhlis,16519507,13519072,LAKI-LAKI,IF,/async/default.png,5,-,Hanif
+139,Ghifari Farras Azhar,16519528,18219065,LAKI-LAKI,STI,/async/16519528_Ghifari Farras Azhar_STI .png,5,Hitam,Ghifari
+140,Girvin Junod,16519010,13519096,LAKI-LAKI,IF,/async/16519010_Girvin Junod_IF.jpg,6,Putih,Girvin
+141,Indira Damayanti,16519034,18219051,PEREMPUAN,STI,/async/16519034_Aisyah Farras Aqila_IF.png,6,Putih,Indira
+142,Aisyah Farras Aqila,16519104,13519054,PEREMPUAN,IF,/async/16519034_Indira Damayanti_STI.jpg,6,Hitam,Aqila
+143,Aulia Adila,16519152,13519100,PEREMPUAN,IF,/async/16519162_Aulia Adila_IF.jpg,6,Putih,Adila
+144,Fadel Ananda Dotty,16519178,13519146,LAKI-LAKI,IF,/async/16519178_Fadel Ananda Dotty_IF.jpg,6,Hitam,Fadel
+145,Warren Gabriel Mulyawan,16519203,18219096,LAKI-LAKI,STI,/async/16519203_Warren Gabriel Mulyawan_STI.jpg,6,Abu-abu,Warren
+146,Fakhri Nail Wibowo,16519204,13519035,LAKI-LAKI,IF,/async/16519204_Fakhri Nail Wibowo_IF.jpg,6,Hitam,Kiki
+147,Ilham Alvindo Riandova,16519208,18219063,LAKI-LAKI,STI,/async/16519208_Ilham Alvindo Riandova_STI.jpg,6,Hitam,Ilham
+148,Muhammad Dehan Al Kautsar,16519213,13519200,LAKI-LAKI,IF,/async/16519213_Muhammad Dehan Al-Kautsar_IF.png,6,Hitam,Dehan
+149,Ronggur Mahendra Widya Putra,16519214,13519008,LAKI-LAKI,IF,/async/16519214_Ronggur_IF.png,6,Coklat,Ronggur
+150,Chintya Wijaya,16519215,18219082,PEREMPUAN,STI,/async/16519215_Chintya Wijaya_STI.png,6,Pink,CW
+151,Habibina Arif Muzayyan,16519216,13519125,LAKI-LAKI,IF,/async/16519216_Habibina Arif_IF.png,6,Abu-abu,Arif
+152,Fathiyya Maghfirah Teddy,16519220,18219106,PEREMPUAN,STI,/async/16519220_Fathiyya_STI.png,6,Hitam/Putih,Fathiyya
+153,Andrew,16519221,13519036,LAKI-LAKI,IF,/async/16519221_Andrew_IF.png,6,Hitam/Abu-abu,Drew
+154,Raihan Astrada Fathurrahman,16519225,13519113,LAKI-LAKI,IF,/async/16519225_Raihan Astrada_IF.png,6,Biru,Raihan/Strada
+155,Handy Zulkarnain,16519232,18219060,LAKI-LAKI,STI,/async/16519232_Handy_STI.png,6,Hitam,Handy
+156,Isabella Handayani Sumantri,16519251,13519081,PEREMPUAN,IF,/async/16519251_Isabella_IF.png,6,Biru,Bella
+157,Nathaniel Angelius Tjahyadi,16519256,18219070,LAKI-LAKI,STI,/async/16519256_Nathan_STI.png,6,Jamal,Nathan
+158,Ahmad Saladin,16519263,13519187,LAKI-LAKI,IF,/async/16519263_Ahmad Saladin_IF.png,6,Hitam/Putih,Adin
+159,Michael Owen,16519268,13519055,LAKI-LAKI,IF,/async/16519268_Michael Owen_IF.png,6,Kuning,Owen
+160,Parnaek R. Siagian,16519271,18219114,LAKI-LAKI,STI,/async/16519271_Parnaek_STI.png,6,Coklat,Naek
+161,Muhammad Rifat Abiwardani,16519273,13519205,LAKI-LAKI,IF,/async/16519273_Abiwardani_IF.png,6,Biru,Abi
+162,Helkia Yeremia,16519283,13519056,LAKI-LAKI,IF,/async/16519283_Helkia_IF.png,6,Abu-abu,Helkia
+163,Moses Ananta,16519287,13519076,LAKI-LAKI,IF,/async/16519287_Moses_IF.png,6,Biru,Moses
+164,Muhammad Farhan,16519288,18219015,LAKI-LAKI,STI,/async/16519288_Farhan_STI.png,6,Putih,Farhan
+165,Wildan Daffa Hafizh,16519289,18219115,LAKI-LAKI,STI,/async/16519289_Wildan_STI.png,6,Biru,Wildan
+166,Kresna Faza R,16519296,13519095,LAKI-LAKI,IF,/async/16519296_Kresna Faza_IF.jpg,6,Hitam/Abu-abu,Kresna
+167,hafid abi daniswara,16519371,13519028,LAKI-LAKI,IF,/async/16519371_Hafid Abi_IF.png,6,Abu-abu,Abi
+168,Made Kharisma Jagaddhita,16519011,13519176,LAKI-LAKI,IF,/async/16519011_Made Kharisma Jagaddhita_IF.jpg,7,Hitam/Hijau,Kharisma
+169,Natasya Jatiwicha Azzahra,16519073,18219065,PEREMPUAN,STI,/async/16519073_Natasya Jatiwicha Azzahra_STI.jpg,7,Putih,Tata
+170,Dimas Farhan Anshari,16519237,18219001,LAKI-LAKI,STI,/async/16519237_Dimas Farhan Anshari_STI.jpg,7,Merah,Dims
+171,Farhan Yusuf Akbar,16519238,13519202,LAKI-LAKI,IF,/async/16519238_Farhan Yusuf Akbar_IF.jpg,7,Hitam,Farhan
+172,Daru Bagus Dananjaya,16519240,13519080,LAKI-LAKI,IF,/async/16519240_Daru Bagus Dananjaya_IF.jpg,7,Merah,Danan
+173,Rhapsodya Piedro Asmorobangun,16519250,13519084,LAKI-LAKI,IF,/async/16519250_Rhapsodya Piedro Asmorobangun_IF.jpg,7,Hitam,Piedro
+174,Rezda Abdullah Fachrezzi,16519254,13519194,LAKI-LAKI,IF,/async/16519254_Rezda Abdullah Fachrezzi_IF.jpg,7,Coklat,Rezda
+175,Mohammad Afif Akromi,16519257,13519110,LAKI-LAKI,IF,/async/16519257_Mohammad Afif Akromi_IF.jpg,7,Hitam/Jingga,Afif
+176,Nabila Farah Debi,16519258,18219093,PEREMPUAN,STI,/async/16519258_Nabila Farah Debi_STI.jpg,7,Hitam,Bila
+177,Farrell Abieza Zidan,16519259,13519182,LAKI-LAKI,IF,/async/16519259_Farrell Abieza Zidan_IF.jpg,7,Putih,Farrell
+178,Dimas Meisab Raditya,16519260,18219092,LAKI-LAKI,STI,/async/16519260_Dimas Meisab Raditya_STI.jpg,7,Hitam,Dimsab
+179,Muhammad Azhar Faturahman,16519261,13519020,LAKI-LAKI,IF,/async/16519261_Muhammad Azhar Faturahman_IF.jpg,7,Jakang,Azhar
+180,Epata Tuah,16519262,13519120,LAKI-LAKI,IF,/async/16519262_Epata Tuah_IF.jpg,7,Putih,Pata
+181,Afif Fahreza,16519291,18219058,LAKI-LAKI,STI,/async/16519291_Afif Fahreza_STI.jpg,7,Biru,Afif
+182,Alifah Rahmatika Basyasya,16519293,13519053,PEREMPUAN,IF,/async/16519293_Alifah Rahmatika Basyasya_IF.jpg,7,Hitam/Abu-abu,Caca
+183,Jordan Daniel Joshua ,16519295,13519098,LAKI-LAKI,IF,/async/16519295_Jordan Daniel Joshua_IF.jpg,7,Hitam,Jordan
+184,Muhammad Hanif A. Nasution,16519298,18219077,LAKI-LAKI,STI,/async/16519298_Muhammad Hanif Afisena Nasution_STI.jpg,7,Abu-abu,Hanif
+185,Muhammad Fahmi Alamsyah,16519300,13519077,LAKI-LAKI,IF,/async/16519300_Muhammad Fahmi Alamsyah_IF.jpg,7,Hijau,Alam
+186,Viena Marshalinda Gusnissa,16519302,18219103,PEREMPUAN,STI,/async/16519302_Viena Marshalinda Gusnissa_302.jpg,7,Jingga/Coklat/Putih,"Viena, Margus"
+187,Christopher Chandrasaputra,16519305,13519074,LAKI-LAKI,IF,/async/16519305_Christopher Chandrasaputra_IF.jpg,7,Hitam/Abu-abu,Topher/Chandra
+188,Widya Anugrah Putra,16519307,13519105,LAKI-LAKI,IF,/async/16519307_Widya Anugrah Putra_IF.jpg,7,Abu-abu,Wiwid
+189,Farras Isfahan Akbar,16519309,18219020,LAKI-LAKI,STI,/async/16519309_Farras Isfahan Akbar_STI.jpg,7,Kuning/Hijau,Farras
+190,I Wayan Ananta Wijaya Muji Suandira,16519311,18219038,LAKI-LAKI,STI,/async/16519311_I Wayan Ananta Wijaya Muji Suandira_STI.jpg,7,Biru/Coklat,Ananta
+191,Rolland Steven Supardi,16519317,13519173,LAKI-LAKI,IF,/async/16519317_Rolland Steven Supardi_IF.jpg,7,Hitam/Abu-abu,Rolland
+192,Baskoro Adi Wicaksono,16519319,18219113,LAKI-LAKI,STI,/async/16519319_Baskoro Adi Wicaksono_STI.jpg,7,Biru,Baskoro
+193,Fathan Ananta Nur,16519332,18219008,LAKI-LAKI,STI,/async/16519332_Fathan Ananta Nur_STI.jpg,7,Biru,Fathan
+194,Muhammad Ichsandro D Noor,16519402,18219094,LAKI-LAKI,STI,/async/16519402_Muhammad Ichsandro Daniswara Noor_STI.jpg,7,Putih,Andro
+195,Haning Nanda Hapsari,16519004,13519042,PEREMPUAN,IF,/async/16519004_Haning Nanda_IF.jpg,8,Kuning,Haning
+196,Mizzi Muhammad Naufal Alfathan,16519019,18219002,LAKI-LAKI,STI,/async/16519019_Mizzi_STI.jpg,8,Biru,Mizzi
+197,Zahra Salsabila,16519037,18219042,PEREMPUAN,STI,/async/16519037_Sarah_STI.jpg,8,Hitam,Sarah
+198,Muhammad Raflie Dwi Putra,16519127,18219035,LAKI-LAKI,STI,/async/16519127_Raflie_STI.jpg,8,Jakang,Raflie
+199,Elisabeth Gunawan,16519149,18219031,PEREMPUAN,STI,/async/16519149_Elisabeth.G_IF.jpg,8,Biru,Eli
+200,Yahya Aqrom,16519276,18219076,LAKI-LAKI,STI,/async/16519276_Yahya Aqrom_IF.jpg,8,Jakang,Aqrom
+201,Alvin Rizqi Alfisyahrin,16519280,13519126,LAKI-LAKI,IF,/async/16519280_Alvin_IF.jpg,8,Hijau,Alvin
+202,Pratama Andiko,16519285,13519112,LAKI-LAKI,IF,/async/16519285_Andiko_IF.jpg,8,Hitam,Diko
+203,M. Reyhanullah Budiaman,16519306,13519045,LAKI-LAKI,IF,/async/16519306_Reyhanullah_IF.jpg,8,Hitam,Reyhan
+204,Muhammad Reza Nur Fauzi,16519308,18219064,LAKI-LAKI,STI,/async/16519308_M. Reza N.F._STI.jpg,8,Biru,Reza
+205,Benidictus Galih Mahar Putra,16519318,13519159,LAKI-LAKI,IF,/async/16519318_Benedictus G.M.P_IF.jpg,8,Hitam,Dito
+206,Reinaldo Antolis,16519320,13519015,LAKI-LAKI,IF,/async/16519320_Reinaldo Antolis_IF.jpg,8,Hitam,Reinaldo
+207,Jason Wie Jonathan,16519322,18219003,LAKI-LAKI,STI,/async/16519322_Jason Wie_STI.jpg,8,Merah,Jason
+208,Muhammad Furqon,16519323,13519184,LAKI-LAKI,IF,/async/16519323_Muhammad Furqon.jpg,8,Abu-abu,Furqon
+209,Safiq Faray,16519329,13519145,LAKI-LAKI,IF,/async/16519329_Safiq Faray_IF.jpg,8,Putih,Safiq
+210,Muhammad Dzaki Razaan Faza,16519342,13519033,LAKI-LAKI,IF,/async/16519342_M.D.R.Faza_IF.jpg,8,Merah,Faza
+211,Muhamad Agung Ahsary,16519345,18219098,LAKI-LAKI,STI,/async/16519345_Agung Ahsary_STI.jpg,8,Hitam,Agung
+212,Aditya Bimawan,16519346,13519064,LAKI-LAKI,IF,/async/16519346_Aditya Bimawan_IF.jpg,8,Hitam,Adit
+213,Muhammad Iqbal Sigid,16519349,13519152,LAKI-LAKI,IF,/async/16519349_Iqbal Sigid_IF.jpg,8,Biru muda,Iqbal
+214,David Moelia Sapoetra,16519352,18219012,LAKI-LAKI,STI,/async/16519352_David Moelia_STI.png,8,Biru muda,David
+215,Muhammad Rifky Muthahhari,16519354,13519123,LAKI-LAKI,IF,/async/16519354_Rifky M_IF.jpg,8,Merah,Ikey
+216,Nadilla Putri Pratiwi,16519361,18219108,PEREMPUAN,STI,/async/16519361_Nadila_STI.jpg,8,Putih,Nadilla
+217,Muhammad Husnul Daffa,16519401,18219010,LAKI-LAKI,STI,/async/16519401_Chusnul Daffa_STI.jpg,8,Merah,Chus
+218,Cindy Amandani Noviantika,16519410,18219110,PEREMPUAN,STI,/async/16519410_Cindy_STI.jpg,8,Coklat,Cindy
+219,M. Rafli Zamzami,16519413,13519067,LAKI-LAKI,IF,/async/16519413_Rafli Zamzami_IF.jpg,8,Jakang,Kipli
+220,Clarisa Natalia Edelin ,16519420,13519213,PEREMPUAN,IF,/async/16519420_Clarissa Natalia_IF.jpg,8,Putih,Lia
+221,Ilyasa Salafi Putra Jamal,16519457,13519023,LAKI-LAKI,IF,/async/16519457_Ilyasa Salafi_IF.jpg,8,Hitam/Biru (?),Ilyas
+222,Muhammad Asyrofi Al Hakim,16519494,18219049,LAKI-LAKI,STI,/async/16519494_Asyrofi Al Hakim_STI.png,8,Hitam,Hakim
+223,Delisha Azza Naadira,16519022,13519133,PEREMPUAN,IF,/async/16519022_Delisha Azza Naadira_IF.png,9,Abu-abu,Delisha
+224,Farhan Nur Hidayat Denira,16519049,13519071,LAKI-LAKI,IF,/async/16519049_Farhan Nur Hidayat Denira_IF.png,9,Hitam,Ahan
+225,Karina Imani,16519114,13519166,PEREMPUAN,IF,/async/16519114_Karina Imani_IF.png,9,Hitam,Karina
+226,Kevin Ryan,16519294,13519191,LAKI-LAKI,IF,/async/16519294_Kevin Ryan_IF.png,9,Putih,KR
+227,Gina Septiyani Putri,16519301,18219053,PEREMPUAN,STI,/async/16519301_Gina Septiyani Putri_STI.png,9,Coklat,Gina
+228,Azka Alya Ramadhan,16519331,18219101,PEREMPUAN,STI,/async/16519331_Azka Alya Ramadhan_STI.png,9,Kuning,Azka
+229,Muhammad Rayhan Ravianda ,16519335,13519201,LAKI-LAKI,IF,/async/16519335_Muhammad Rayhan Ravianda_IF.png,9,Hitam,Cubing
+230,Abraham Manuel Hotasi Banjarnahor,16519337,18219083,LAKI-LAKI,STI,/async/16519337_Abraham Manuel Hotasi_STI.png,9,Hitam,Hot
+231,Samuel Aristides,16519338,18219080,LAKI-LAKI,STI,/async/16519338_Samuel Aristides_STI.png,9,Hitam,Samsul
+232,Aindrea Rayhan Supriyanto,16519360,18219034,LAKI-LAKI,STI,/async/16519360_Aindrea Rayhan Supriyanto_STI.png,9,Putih,Dean
+233,La Ode Rajuh Emoko,16519372,13519170,LAKI-LAKI,IF,/async/16519372_La Ode Rajuh Emoko_IF.png,9,Putih,Rajuh
+234,Edwin Stanic Prasetyo,16519374,18219079,LAKI-LAKI,STI,/async/16519374_Edwin Stanic Prasetyo_STI.png,9,Hitam,Edwin
+235,Muhammad Erwin Fattah,16519375,18219019,LAKI-LAKI,STI,/async/16519375_Muhammad Erwin Fattah_STI.png,9,Ungu,Erwin
+236,Rahmat Wibowo,16519377,18219040,LAKI-LAKI,STI,/async/16519377_Rahmat Wibowo_STI.png,9,Merah,Rahmat
+237,Rehagana Kevin Christian Sembiring ,16519380,13519117,LAKI-LAKI,IF,/async/16519380_Rehagana Kevin Christian Sembiring_IF.png,9,Hitam/Putih/Merah,Haga
+238,Rayhan Alghifari Fauzta,16519384,13519039,LAKI-LAKI,IF,/async/16519384_Rayhan Alghifari Fauzta_IF.png,9,Abu-abu,Alghi
+239,Marcelino Feihan,16519385,18219006,LAKI-LAKI,STI,/async/16519385_Marcelino Feihan_STI.png,9,HItam,Feihan
+240,Fauzan Rafif Widyanto,16519388,18219104,LAKI-LAKI,STI,/async/16519388_Fauzan Rafif Widyanto_STI.png,9,Hijau/Coklat/Putih,Fauzan
+241,Jeanne D'Arc Amara Hanieka,16519390,13519082,PEREMPUAN,IF,/async/16519390_Jeanne D_Arc Amara Hanieka_IF.png,9,Hitam,Amara
+242,Muhammad Tito Prakasa,16519391,13519007,LAKI-LAKI,IF,/async/16519391_Muhammad Tito Prakasa_IF.png,9,Biru,Tito
+243,Patricia Dita Natasha,16519392,18219018,PEREMPUAN,STI,/async/16519392_Patricia Dita Natasha_STI.png,9,HItam,Dita
+244,Kinantan Arya Bagaspati,16519393,13519044,LAKI-LAKI,IF,/async/16519393_Kinantan Arya Bagaspati_IF.png,9,Abu-abu,Kinon
+245,Andrianata Putra Tjandra,16519398,13519147,LAKI-LAKI,IF,/async/16519398_Andrianata Putra Tjandra_IF.png,9,biru,Rian
+246,Farhan Fadillah Rafi,16519399,13519204,LAKI-LAKI,IF,/async/16519399_Farhan Fadillah Rafi_IF.png,9,Hitam,Farhan
+247,Muhammad Fikri Naufal,16519404,13519158,LAKI-LAKI,IF,/async/16519404_Muhammad Fikri Naufal_IF.png,9,HItam,Fikri
+248,Hokki Suwanda,16519408,13519143,LAKI-LAKI,IF,/async/16519408_Hokki Suwanda_IF.png,9,Kuning,Hokki
+249,Hughie Alghaniyyu Emiliano,16519409,13519217,LAKI-LAKI,IF,/async/16519409_Hughie Alghaniyyu Emiliano_IF.png,9,HItam,Hughie
+250,Kadek Surya Mahardika,16519444,13519165,LAKI-LAKI,IF,/async/16519444_Kadek Surya Mahardika_IF.png,9,Hitam,Surya
+251,Nicholas Darmawan,16519009,18219028,LAKI-LAKI,STI,/async/009_Nicholas Darmawan_STI.JPG,10,Merah,Nicho
+252,Imam Nurul Hukmi,16519025,13519150,LAKI-LAKI,IF,/async/025_Imam Nurul Hukmi_IF.JPG,10,Jakang,Imam
+253,Ridho Daffasyah,16519027,13519038,LAKI-LAKI,IF,/async/027_Ridho Daffasyah_IF.JPG,10,Jakang,Ridho
+254,Mohammad Yahya Ibrahim ,16519242,13519091,LAKI-LAKI,IF,/async/242_Mohammad Yahya Ibrahim_IF.JPG,10,Biru,Yahya
+255,Raffi Fadhlurrahman Putra Rahiem ,16519315,13519219,LAKI-LAKI,IF,/async/315_Raffi Fadhlurrahman Putra Rahiem_IF.JPG,10,Biru,Raffi
+256,Reihan Andhika Putra,16519316,13519043,LAKI-LAKI,IF,/async/316_Reihan Andhika Putra_IF.JPG,10,Biru,Reihan
+257,Cahaya Naja,16519340,18219059,PEREMPUAN,STI,/async/340_Cahaya Naja Suharningtyas_STI.JPG,10,Coklat,Naja
+258,Rizky Anggita S. Siregar,16519348,13519132,LAKI-LAKI,IF,/async/348_Rizky Anggita Syarbaini Siregar_IF.JPG,10,Hitam/Putih/Merah,Gita
+259,Kadek Dwi Bagus Ananta Udayana,16519350,13519057,LAKI-LAKI,IF,/async/350_Kadek Dwi Bagus Ananta Udayana_IF.JPG,10,Putih,Dwi
+260,Stella Ribli,16519358,18219027,PEREMPUAN,STI,/async/358_Stella Ribli_STI.JPG,10,Putih,Stella
+261,Syamil Cholid Abdurrasyid,16519369,13519052,LAKI-LAKI,IF,/async/369_Syamil Cholid Abdurrasyid_IF.JPG,10,Merah,Syamil
+262,Gde Anantha Priharsena,16519373,13519026,LAKI-LAKI,IF,/async/373_Gde Anantha Priharsena_IF.JPG,10,Putih,Nantha
+263,Cynthia Rusadi,16519381,13519118,PEREMPUAN,IF,/async/381_Cynthia Rusadi_IF.JPG,10,Coklat,Cynthia/Acin
+264,Ryo Richardo,16519400,13519193,LAKI-LAKI,IF,/async/400_Ryo Richardo_IF.JPG,10,Hitam,Ryo
+265,Muhammad Fikri. N,16519406,13519069,LAKI-LAKI,IF,/async/406_Muhammad Fikri N_IF.JPG,10,Biru,FIkri
+266,Reynard Hans P,16519423,13519119,LAKI-LAKI,IF,/async/423_Reynard Hans Prayoga_IF.JPG,10,Hitam/Putih,Hans
+267,Kemal Lutfian Cicero,16519425,18219091,LAKI-LAKI,STI,/async/425_Kemal Lutfian Cicero_STI.JPG,10,Hitam,Kemal/Cakep
+268,Muhammad Atthaumar Rifqy,16519426,13519148,LAKI-LAKI,IF,/async/426_Muhammad Atthaumar Rifqy_IF.JPG,10,Putih/Merah,Rifqy
+269,Awwala Nisa Kamila,16519431,13519208,PEREMPUAN,IF,/async/431_Awwala Nisa Kamila_IF.JPG,10,Pink,Awwala
+270,Richard Rivaldo,16519433,13519185,LAKI-LAKI,IF,/async/433_Richard Rivaldo_IF.JPG,10,Kuning,Richard
+271,Billy Julius,16519437,13519094,LAKI-LAKI,IF,/async/437_Billy Julius_IF.JPG,10,Merah,BJ
+272,Karel Renaldi,16519445,13519180,LAKI-LAKI,IF,/async/445_Karel Renaldi_IF.JPG,10,Hitam,Karel
+273,James Chandra,16519446,13519078,LAKI-LAKI,IF,/async/446_James Chandra_IF.JPG,10,Kuning,James
+274,Graciella Valeska Liander,16519447,18219075,PEREMPUAN,STI,/async/447_Graciella Valeska Liander_STI.JPG,10,Merah,Grace
+275,Muhammad Galih Raihan Ramadhan,16519455,13519017,LAKI-LAKI,IF,/async/455_Muhammad Galih Raihan Ramadhan_IF.JPG,10,Hitam,Galih
+276,Nadira Fawziyya Masnur,16519458,18219004,PEREMPUAN,STI,/async/458_Nadira Fawziyya Masnur_STI.JPG,10,Putih,Nadira
+277,Akeyla Prafia Naufal,16519459,13519178,LAKI-LAKI,IF,/async/459_Akeyla Pradia Naufal_IF.JPG,10,Jamal,Akeyla
+278,Alvin Wilta,16519534,13519163,LAKI-LAKI,IF,/async/534_Alvin Wilta_IF.JPG,10,Putih,Alvin
+279,Steven Nataniel,16519015,13519002,LAKI-LAKI,IF,/async/16519015_Steven Nataniel Kodyat_IF.png,11,Hitam,Viel/VL
+280,Dwiky Hared Darmawan,16519028,18219048,LAKI-LAKI,STI,/async/16519028_Dwiky Hared Darmawan_STI.png,11,Hitam,Dwiky
+281,Kevin Kencana,16519074,18219050,LAKI-LAKI,STI,/async/16519074_Kevin Kencana_STI.png,11,Putih,Kevin/Aliang
+282,Hera Shafira,16519115,13519131,PEREMPUAN,IF,/async/16519115_Hera Shafira_IF.png,11,Abu-abu,Hera
+283,Zarfa Naida Pratista,16519118,18219014,PEREMPUAN,STI,/async/16519118_Zarfa Naida Pratista_STI.png,11,Abu-abu,Zarfa/Caca
+284,Leonard Matheus,16519382,13519215,LAKI-LAKI,IF,/async/16519382_Leonard Matheus_IF.png,11,Biru,Leo
+285,Marcello Faria,16519414,13519086,LAKI-LAKI,IF,/async/16519414_Marcello Faria_IF.png,11,HItam,Cello
+286,Frederic Ronaldi,16519422,13519134,LAKI-LAKI,IF,/async/16519422_Frederic Ronaldi_IF.png,11,Putih,Eric
+287,Irvin Andryan Pratomo,16519429,13519162,LAKI-LAKI,IF,/async/16519429_Irvin Andryan Pratomo_IF.png,11,Biru,Irvin
+288,Vania Alya Qonita,16519452,18219090,PEREMPUAN,STI,/async/16519452_Vania Alya Qonita_STI.png,11,Hitam/Orange,Vania
+289,Muhammad Zubair,16519453,13519172,LAKI-LAKI,IF,/async/16519453_Muhammad Zubair_IF.png,11,Abu-abu,Zubair
+290,Rahmat Pujiatno,16519456,18219062,LAKI-LAKI,STI,/async/16519456_Rahmat Pujiatno_STI.png,11,Abu-abu,Rahmat
+291,Jauhar Wibisono,16519460,13519160,LAKI-LAKI,IF,/async/16519460_Jauhar Wibisono_IF.png,11,Merah,Wibi
+292,Randy Zakya Suchrady,16519461,13519061,LAKI-LAKI,IF,/async/16519461_Randy Zakya Suchrady_IF.jpg,11,Putih,Randy
+293,Syarifah Aisha Geubrina Yasmin,16519462,13519089,PEREMPUAN,IF,/async/16519462_Syarifah Aisha Geubrina Yasmin_IF.png,11,Hitam,Aisha
+294,Albertus Agung Sinurat,16519463,18219066,LAKI-LAKI,STI,/async/16519463_Albertus Agung_STI.png,11,Hitam/Putih,Agung
+295,Febriawan Ghally Ar Rahman,16519466,13519111,LAKI-LAKI,IF,/async/16519466_Febriawan Ghally Ar Rahman_IF.jpg,11,Biru/Kuning,Ghally
+296,Kevin Katsura Dani Sitanggang,16519468,13519216,LAKI-LAKI,IF,/async/16519468_Kevin Katsura D. S._IF.jpg,11,Coklat,Kevin
+297,Muhammad Alfandavi Aryo Utomo,16519471,13519211,LAKI-LAKI,IF,/async/16519471_M. Alfandavi Aryo Utomo_IF.jpg,11,Putih,Alfan
+298,Michael PG,16519472,13519121,LAKI-LAKI,IF,/async/16519472_Michael Philip_IF.png,11,Putih/Biru,PG
+299,Yusuf Alwansyah Hilmy,16519474,13519005,LAKI-LAKI,IF,/async/16519474_Yusuf Alwansyah Hilmy_IF.png,11,HItam,Alwan
+300,Stefanus,16519475,13519101,LAKI-LAKI,IF,/async/16519475_Stefanus_IF.png,11,Biru,Stefanus
+301,Thomas Ferdinand Martin,16519477,13519099,LAKI-LAKI,IF,/async/16519477_Thomas Ferdinand Martin_IF.png,11,Biru,Thomas
+302,Azmi Muhammad Syazwana,16519479,13519151,LAKI-LAKI,IF,/async/16519479_Azmi Muhammad Syazwana_IF.png,11,Hijau,Azmi
+303,Rayhan Habib,16519482,18219088,LAKI-LAKI,STI,/async/default.png,11,-,Habib
+304,Arsa Daris Gintara,16519491,13519037,LAKI-LAKI,IF,/async/16519491_Arsa Daris Gintara_IF.jpg,11,Biru,Arsa
+305,Christian Tobing,16519505,13519109,LAKI-LAKI,IF,/async/16519505_Christian Tobing Alexandro_IF.jpg,11,Putih,Christian
+306,Panegak Raya Pasaribu,16519023,18219029,LAKI-LAKI,STI,/async/16519023_Panegak Raya Pasaribu_STI.jpg,12,Abu-abu,Ray
+307,Muhammad Darrel Alwafin,16519043,18219109,LAKI-LAKI,STI,/async/16519043_Muhammad Darrel Alwafin_STI.png,12,Putih,Darrel
+308,Stefanny,16519189,18219087,PEREMPUAN,STI,/async/16519189_Stefanny_STI.png,12,Hitam,Stefanny
+309,Maximillian Lukman,16519266,13519153,LAKI-LAKI,IF,/async/16519266_Maximillian Lukman_IF.png,12,Abu-abu,Maxi
+310,Karlsen Adiyasa Bachtiar,16519330,13519001,LAKI-LAKI,IF,/async/16519330_Karlsen Adiyasa Bachtiar_IF.png,12,Hitam,Karlsen
+311,Rahmat Fabhian Aminuddin,16519435,18219055,LAKI-LAKI,STI,/async/16519435_Rahmat Fabhian Aminuddin_STI.png,12,Hitam,Abhi
+312,Yudi Alfayat,16519450,13519051,LAKI-LAKI,IF,/async/16519450_Yudi Alfayat_IF.png,12,Abu-abu,Yudi
+313,Nadya Laurentia,16519473,18219071,PEREMPUAN,STI,/async/16519473_Nadya Laurentia_STI.png,12,Biru,Nadya
+314,Haikal Lazuardi Fadil,16519478,13519027,LAKI-LAKI,IF,/async/16519478_Haikal Lazuardi Fadil_IF.png,12,Putih,Haikal
+315,Vincentius Samuel Gondokusumo,16519480,18219024,LAKI-LAKI,STI,/async/16519480_Vincent_STI.png,12,Hijau,Vincent
+316,Christian Gunawan,16519483,13519199,LAKI-LAKI,IF,/async/16519483_Christian Gunawan_IF.jpg,12,Biru,Christian
+317,Jusuf Junior Athala,16519484,13519174,LAKI-LAKI,IF,/async/16519484_Jusuf Junior Athala_IF.jpg,12,Jamal,Jusuf
+318,Aria Bachrul Ulum Berlian,16519487,13519115,LAKI-LAKI,IF,/async/16519487_Aria Bachrul Ulum Berlian_IF.jpg,12,Hitam,Aria
+319,Shelly Valencia,16519489,18219016,PEREMPUAN,STI,/async/16519489_Shelly Valencia_STI.jpg,12,Hitam,Shelly
+320,Christopher Davin Leoputra,16519493,18219037,LAKI-LAKI,STI,/async/16519493_Christopher Davin Leoputra_STI.jpg,12,Merah,Davin
+321,Mhd. Hiro Agayeff Muslion,16519495,13519070,LAKI-LAKI,IF,/async/16519495_Mhd. Hiro Agayeff Muslion_IF.jpg,12,Merah,Hiro
+322,Bintang Fajarianto,16519498,13519138,LAKI-LAKI,IF,/async/16519498_Bintang Fajarianto_IF.jpg,12,Biru,Bintang
+323,Kristofer Hartono,16519500,18219102,PEREMPUAN,STI,/async/16519500_Kristofer Hartono_STI.jpg,12,Hitam,Kristo
+324,Melita,16519501,13519063,LAKI-LAKI,IF,/async/16519501_Melita_IF.jpg,12,Coklat,Melita
+325,Jose Galbraith Hasintongan,16519508,13519022,LAKI-LAKI,IF,/async/16519508_Jose Galbraith Hasintongan_IF.jpg,12,Hitam,Jose
+326,Naufal Anas Nugrahanto,16519509,18219068,LAKI-LAKI,STI,/async/16519509_Naufal Anas Nugrahanto_STI.jpg,12,HItam,Anas
+327,Hizkia Raditya Pratama Roosadi,16519515,13519087,LAKI-LAKI,IF,/async/16519515_Hizkia Raditya Pratama Roosadi_IF.jpg,12,Putih,Hizkia
+328,Muhammad Naufal Izza Fikry,16519516,13519088,LAKI-LAKI,IF,/async/16519516_Muhammad Naufal Izza Fikry_IF.jpg,12,Hitam,Naufal
+329,Tanur Rizaldi Rahardjo,16519525,13519214,LAKI-LAKI,IF,/async/16519525_Tanur Rizaldi Rahardjo_IF.jpg,12,Abu-abu,Tanur
+330,Ardhana Putra Wibowo,16519526,18219009,LAKI-LAKI,STI,/async/16519526_Ardhana Putra Wibowo_STI.jpg,12,Coklat,Ardhana
+331,Maulana Anindita Awi Arjwasa,16519527,18219086,LAKI-LAKI,STI,/async/16519527_Maulana Anindita Awi Arjwasa_STI.jpg,12,Abu-abu,Dito
+332,Kahfi Soobhan Zulkifli,16519530,13519012,LAKI-LAKI,IF,/async/16519530_Kahfi Soobhan Zulkifli_IF.jpg,12,Hitam,Kahfi

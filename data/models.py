@@ -7,7 +7,7 @@ MAJOR = (('IF', 'Teknik Informatika'), ('STI', 'Sistem Teknologi Informasi'))
 
 class Person(models.Model):
 
-    text_regex = RegexValidator(r'^[a-z A-Z]*$', 'Only letters are allowed.')
+    text_regex = RegexValidator(r'^[a-z A-Z/]*$', 'Only letters are allowed.')
     nama = models.CharField(validators=[text_regex], max_length=75)
     nim_tpb = models.IntegerField(default=16519599, validators=[MaxValueValidator(16519600), MinValueValidator(16519000)])
     nim_jurusan = models.IntegerField(default=13519999)
@@ -16,6 +16,7 @@ class Person(models.Model):
     jurusan = models.CharField(max_length=3, choices=MAJOR)
     image = models.ImageField(default = 'default.png', upload_to='async')
     kelompok = models.IntegerField(default=0, validators=[MaxValueValidator(12), MinValueValidator(0)])
+    warna_baju = models.CharField(validators=[text_regex], max_length=50, null=True)
 
     def save(self, force_insert=False, force_update=False, using=None,
              update_fields=None):

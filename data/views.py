@@ -14,6 +14,44 @@ def convertPage(pstr):
         return 1
     return page
 
+def person(request):
+    kelompok = request.GET.get('kelompok', 1)
+    person = request.GET.get('person', 1)
+    try:
+        person = int(person)
+        kelompok = int(kelompok)
+    except:
+        person = 1
+        kelompok = 1
+    data = Person.objects.filter(kelompok=kelompok)
+    if data == None or person > len(data):
+        person = len(data)
+    n = -1
+    m = -1
+    keln = kelompok
+    kelm = kelompok
+    if person < len(data):
+        n = person+1
+    elif kelompok <= 11:
+        keln = keln+1
+        n = 1
+    if person > 1:
+        m = person-1
+    elif kelompok > 1:
+        kelm = kelm-1
+        m = len(Person.objects.filter(kelompok=kelm))
+
+    if n == -1:
+        urlnext = "#"
+    else:
+        urlnext = "/detail/?kelompok=" + str(keln) + "&person=" + str(n)
+    
+    if m == -1:
+        urlprev = "#"
+    else:
+        urlprev = "/detail/?kelompok=" + str(kelm) + "&person=" + str(m)
+    return render(request, 'person.html', {'person': data[person-1], 'mr' : MEDIA_URL, 'urlnext': urlnext, 'urlprev': urlprev})
+
 def person_list(request):
     people = Person.objects.order_by('nim_tpb')
     return render(request, 'people.html', {'people' : people, 'mr' : MEDIA_URL})
@@ -29,7 +67,7 @@ def search(request):
     found_entries = None
     if ('q' in request.GET) and request.GET['q'].strip():
         query = request.GET['q']
-        filterarr = ['nama', 'panggilan', 'jenis_kelamin']
+        filterarr = ['nama', 'panggilan', 'jenis_kelamin', 'warna_baju']
         orderby = 'nim_jurusan'
         if (query.startswith('nim=') or query.startswith('n=')):
             filterarr = []

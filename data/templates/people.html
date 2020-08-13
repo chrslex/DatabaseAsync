@@ -19,7 +19,7 @@
                             <span class="h2 antic-slab" style="display: inline-block;">
                                 <div class="d-flex flex-column">
                                     <div class="p-1">
-                                        <a href="/" class="text-white">Database Async</a>
+                                        <a href="/async/" class="text-white">Database Async</a>
                                     </div>
                                     <div class="p-1">
                                         <span class="h6 text-white-50">Asynchronous '19 - IF/STI ITB 2019</span>
@@ -31,13 +31,13 @@
                     <nav class="navbar navbar-expand-lg">
                         <ul class="navbar-nav mr-auto">
                             <li class="nav-item active">
-                                <a class="nav-link text-white mx-1 px-3 btn btn-outline-light disabled" href="/">Home</a>
+                                <a class="nav-link text-white mx-1 px-3 btn btn-outline-light disabled" href="/async/">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-white mx-1 px-3 btn btn-outline-light" href="/random">Randomize</a>
+                                <a class="nav-link text-white mx-1 px-3 btn btn-outline-light" href="/async/random">Randomize</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-white mx-1 px-3 btn btn-outline-light" href="/detail/?kelompok=1&person=1">Detail</a>
+                                <a class="nav-link text-white mx-1 px-3 btn btn-outline-light" href="/async/detail/?kelompok=1&person=1">Detail</a>
                             </li>
                         </ul>
                     </nav>
@@ -82,18 +82,18 @@
                                             
 
                                         {% if person.jurusan == 'IF' %}
-                                        <a class="badge badge-light {{person.jurusan}} isi-table px-1 mx-1" href="/search/?q=j%3DIF">IF</span>
+                                        <a class="badge badge-light {{person.jurusan}} isi-table px-1 mx-1" href="/async/search/?q=j%3DIF">IF</span>
                                         {% else %}
-                                        <a class="badge badge-light {{person.jurusan}} isi-table px-1 mx-1" href="/search/?q=j%3DSTI">STI</span>
+                                        <a class="badge badge-light {{person.jurusan}} isi-table px-1 mx-1" href="/async/search/?q=j%3DSTI">STI</span>
                                         {% endif %}
 
                                         {% if person.jenis_kelamin == 'PEREMPUAN' %}
-                                            <a class="badge badge-danger isi-table mx-1" href="/search/?q=Perempuan">Perempuan</a>
+                                            <a class="badge badge-danger isi-table mx-1" href="/async/search/?q=Perempuan">Perempuan</a>
                                         {% else %}
-                                            <a class="badge badge-primary isi-table mx-1" href="/search/?q=Laki-Laki">Laki-Laki</a>
+                                            <a class="badge badge-primary isi-table mx-1" href="/async/search/?q=Laki-Laki">Laki-Laki</a>
                                         {% endif %}
 
-                                        <a class="badge badge-light kel-{{person.kelompok}}" href="/search/?q=kel%3D{{person.kelompok}}">Kelompok {{person.kelompok}}</a>
+                                        <a class="badge badge-light kel-{{person.kelompok}}" href="/async/search/?q=kel%3D{{person.kelompok}}">Kelompok {{person.kelompok}}</a>
                                         </td>
                                         <td class="isi-table">{{person.panggilan}}</td>
                                         <td class="isi-table"><img class="foto" src="{{mr}}{{person.image}}"></td>

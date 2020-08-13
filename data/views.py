@@ -15,6 +15,14 @@ def convertPage(pstr):
         return 1
     return page
 
+def handler404(request, exception):
+    people = Person.objects.order_by('nim_tpb')
+    return render(request, 'people.html', {'people' : people, 'mr' : MEDIA_URL}, status=404)
+
+def handler500(request):
+    people = Person.objects.order_by('nim_tpb')
+    return render(request, 'people.html', {'people' : people, 'mr' : MEDIA_URL}, status=500)
+
 def person_random(request):
     kelompok = random.randint(1,12)
     data = Person.objects.filter(kelompok=kelompok)

@@ -16,9 +16,13 @@ Including another URLconf
 from django.conf.urls import include, url
 from django.contrib import admin
 from . import settings
+from data import views as dv
 from django.conf.urls.static import static
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'', include('data.urls')),
 ]  + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+
+handler404 = dv.handler404
+handler500 = dv.handler500

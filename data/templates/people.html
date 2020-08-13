@@ -1,22 +1,28 @@
 <html>
         <head>
                 <title>Database Async</title>
+                <link rel="icon" type="image/png" href="../media/logo.png">
+                <link href="https://fonts.googleapis.com/css2?family=Antic+Slab" rel="stylesheet">
                 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+                <link href="https://cdn.datatables.net/1.10.21/css/dataTables.bootstrap4.min.css" rel="stylesheet">
         </head>
         
-        <body class=" dashboard">
-            <header id="main-header" class="bg-dark text-white p-4 mb-3">
+        <body>
+            <header class="bg-dark text-white p-3 mb-3">
                 <div class="container">
-                    <div class="row">
-                        <div class="col-md-4">
-                                <h1>Database Async</h1>
+                    <div class="d-flex flex-row">
+                        <div class="p-2">
+                            <span class="h2 antic-slab" style="display: inline-block;">
+                                <img class="logo px-2" src="../media/logo.png">Database Async</span>
                         </div>
                     </div>
                 </div>
             </header>
-                <div class="container mt-5">
-                    <div class="d-flex flex-row">
+                <div class="container mt-5 border py-2 px-3 rounded">
+                    <!--
+                    <div class="d-flex flex-row py-3 my-2">
                         <div class="p-1">
+                                
                             <form class="form-inline" method="get" action="/search/">
                                 <div class="form-group">
                                     <input class="form-control input-lg mx-sm-3 mb-2" placeholder="Search..." type="text" name="q" style="width: calc(250px + 3vw);"/>
@@ -26,24 +32,23 @@
                         </div>
                         <div class="p-1">
                             <form method="get" action="/">
-                                <input class="btn btn-success" type="submit" value="Show All">
+                                <input class="btn btn-primary" type="submit" value="Home">
                             </form>
                         </div>
                     </div>
+                            -->
                 
                 <!-- Content -->
-                        <div id="content">
                         <br/>
-                        <table class="table table-striped table-hover" style="overflow: auto; table-layout: inherit;">
+                        <div id="container">
+                        <table id="dt" class="table table-striped table-hover" style="overflow: auto; table-layout: inherit;">
                             <thead class="thead-light">
                                 <tr>
-                                    <th scope="col" class="isi-table"><a class="text-info" href="/sort/?order_by=nim_tpb">NIM TPB</a></th>
-                                    <th scope="col" class="isi-table"><a class="text-info" href="/sort/?order_by=nim_jurusan">NIM Jurusan</a></th>
-                                    <th scope="col" class="isi-table"><a class="text-info" href="/sort/?order_by=nama">Nama</a></th>
-                                    <th scope="col" class="isi-table"><a class="text-info" href="/sort/?order_by=panggilan">Panggilan</a></th>
-                                    <th scope="col" class="isi-table"><a class="text-info" href="/sort/?order_by=kelompok">Kelompok</a></th>
-                                    <th scope="col" class="isi-table"><a class="text-info" href="/sort/?order_by=jurusan">Jurusan</a></th>
-                                    <th scope="col" class="isi-table"><a class="text-info" href="#">Foto</a></th>
+                                    <th scope="col" class="isi-table"><span class="text-info">NIM TPB</a></th>
+                                    <th scope="col" class="isi-table"><span class="text-info">NIM Jurusan</a></th>
+                                    <th scope="col" class="isi-table"><span class="text-info">Nama</a></th>
+                                    <th scope="col" class="isi-table"><span class="text-info">Panggilan</a></th>
+                                    <th scope="col" class="isi-table"><span class="text-info">Foto</a></th>
                                 </tr>
                             </thead>
                                 
@@ -51,22 +56,25 @@
                                 <tr>
                                         <td class="isi-table">{{person.nim_tpb}}</td>
                                         <td class="isi-table">{{person.nim_jurusan}}</td>
-                                        <td class="isi-table">{{person.nama}} 
+                                        <td class="isi-table">{{person.nama}}<br/>
                                             
-                                        {% if person.jenis_kelamin == 'PEREMPUAN' %}
-                                            <span class="badge badge-danger" style="text-align: center;">Perempuan</span>
+
+                                        {% if person.jurusan == 'IF' %}
+                                        <a class="badge badge-light {{person.jurusan}} isi-table px-1 mx-1" href="/search/?q=j%3DIF">IF</span>
                                         {% else %}
-                                            <span class="badge badge-primary" style="text-align: center;">Laki-Laki</span>
+                                        <a class="badge badge-light {{person.jurusan}} isi-table px-1 mx-1" href="/search/?q=j%3DSTI">STI</span>
                                         {% endif %}
+
+                                        {% if person.jenis_kelamin == 'PEREMPUAN' %}
+                                            <a class="badge badge-danger isi-table mx-1" href="/search/?q=Perempuan">Perempuan</a>
+                                        {% else %}
+                                            <a class="badge badge-primary isi-table mx-1" href="/search/?q=Laki-Laki">Laki-Laki</a>
+                                        {% endif %}
+
+                                        <a class="badge badge-light kel-{{person.kelompok}}" href="/search/?q=kel%3D{{person.kelompok}}">Kelompok {{person.kelompok}}</a>
                                         </td>
                                         <td class="isi-table">{{person.panggilan}}</td>
-                                        <td class="isi-table">{{person.kelompok}}</td>
-                                        {% if person.jurusan == 'IF' %}
-                                            <td class="text-success isi-table">Informatika</td>
-                                        {% else %}
-                                            <td class="text-primary isi-table">Sistem Teknologi dan Informasi</td>
-                                        {% endif %}
-                                        <td class="isi-table"><img class="foto" src="../media/{{person.image}}"></td>
+                                        <td class="isi-table"><img class="foto" src="{{mr}}{{person.image}}"></td>
                                 </tr>
                                 {% endfor %}
                                 
@@ -77,7 +85,15 @@
                 </div>
 
                 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+                <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+                <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
+                <script src="https://cdn.datatables.net/1.10.21/js/dataTables.bootstrap4.min.js"></script>
         </body>
+        <footer>
+            <hr>
+            <p class="h6 isi-table antic-slab">2020 Database Async, Tim Materi.</p>
+            <br/>
+        </footer>
 </html>
 
 <style>
@@ -92,4 +108,93 @@
     max-height: 128px;
     max-width: 128px;
 }
+.logo {
+    height: auto;
+    width: auto;
+    max-height: 112px;
+    max-width: 112px;
+}
+
+.kel-1{
+    color:azure;
+    background-color: #CC0000;
+}
+
+.kel-2{
+    color:azure;
+    background-color: #007E33;
+}
+
+.kel-3{
+    color:azure;
+    background-color: #FF8800;
+}
+
+.kel-4{
+    color:azure;
+    background-color: #0099CC;
+}
+
+.kel-5{
+    color:azure;
+    background-color: #00695c;
+}
+
+.kel-6{
+    color:azure;
+    background-color: #0d47a1;
+}
+
+.kel-7{
+    color:azure;
+    background-color: #9933CC;
+}
+
+.kel-8{
+    color:azure;
+    background-color: #8bc34a;
+}
+
+.kel-9{
+    color:azure;
+    background-color: #c0ca33;
+}
+
+.kel-10{
+    color:azure;
+    background-color: #ff9800;
+}
+
+.kel-11{
+    color:azure;
+    background-color: #6d4c41;
+}
+
+.kel-12{
+    color:azure;
+    background-color: #bdbdbd;
+}
+
+.STI{
+    color:azure;
+    background-color: #00C851;
+}
+
+.IF{
+    color:azure;
+    background-color: #4285F4;
+}
+
+.antic-slab {
+    font-family: 'Antic Slab';
+}
 </style>
+
+<script>
+    $(document).ready(function() {
+    $('#dt').DataTable({
+    dom: "<'row'<'col-sm-3'l><'col-sm-3'f><'col-sm-6'p>>" +
+         "<'row'<'col-sm-12'tr> <'col-sm-5'i>>",
+});
+} );
+</script>

@@ -98,6 +98,7 @@ def search(request):
             filterarr.append('jurusan')
             query = query.replace('jurusan=', '')
             query = query.replace('j=', '')
+            
         if (query.startswith('kelompok=') or query.startswith('k=') or query.startswith('kel=')):
             filterarr = []
             filterarr.append('kelompok')
@@ -105,8 +106,14 @@ def search(request):
             query = query.replace('kelompok=', '')
             query = query.replace('k=', '')
             query = query.replace('kel=', '')
-        entry_query = get_query(query, filterarr)
-        found_entries = Person.objects.order_by(orderby).filter(entry_query)
+            try:
+                k = int(query)
+            except:
+                k = 0
+            found_entries = Person.objects.filter(kelompok=k)
+        else:
+            entry_query = get_query(query, filterarr)
+            found_entries = Person.objects.order_by(orderby).filter(entry_query)
     return render(request, 'people.html', {'people': found_entries, 'mr' : MEDIA_URL, 'ph' : ph})
 
 def normalize_query(query_string,
